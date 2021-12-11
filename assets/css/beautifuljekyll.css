@@ -100,7 +100,7 @@ img::-moz-selection {
 }
 
 img {
-  max-width: 100%;
+  max-width: 1000%;
 }
 
 .linked-section {
