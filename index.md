@@ -1,7 +1,7 @@
 ---
 layout: home
 title: ADA Data Story
-subtitle: LGBT
+cover-img: ./assets/img/prideflag.jpg
 ---
 
 
