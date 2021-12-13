@@ -6,6 +6,7 @@ cover-img: ./assets/img/prideflag.jpg
 
 
 # Why this study?
+because
 
 
 
