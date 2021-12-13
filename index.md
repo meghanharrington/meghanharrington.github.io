@@ -1,6 +1,6 @@
 ---
 layout: home
-title: ADA Data Story
+title: Evolution of opinions on gay rights
 cover-img: ./assets/img/prideflag.jpg
 ---
 
