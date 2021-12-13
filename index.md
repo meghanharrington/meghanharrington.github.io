@@ -16,6 +16,10 @@ In our data story, we are going to focus on the evolution of opinions regarding 
 
 ## Index
 1. Basic explorations
-2. 
 
+
+---
+layout: home
 thumbnail-img: ./assets/img/output_68_0.jpg
+---
+
