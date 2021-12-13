@@ -18,6 +18,6 @@ In our data story, we are going to focus on the evolution of opinions regarding 
 1. Basic explorations
 2. 
 
-img: ./assets/img/output_68_0.jpg
+thumbnail-img: ./assets/img/output_68_0.jpg
 
 okok
