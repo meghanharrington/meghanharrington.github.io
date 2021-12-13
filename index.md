@@ -21,3 +21,5 @@ In our data story, we are going to focus on the evolution of opinions regarding 
 ![Alt text](./assets/img/output_68_0.jpg?raw=true "Title")
 
 
+Evolution of hate crimes related to sexual orientation in each state in 2015 and 2019.
+![Alt text](./assets/img/output_56_0.png?raw=true "Title") ![Alt text](./assets/img/output_50_0.png?raw=true "Title")
