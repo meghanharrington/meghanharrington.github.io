@@ -15,8 +15,22 @@ In our data story, we are going to focus on the evolution of opinions regarding 
 
 
 ## Index
-1. Basic explorations
+1. Political and geographical analysis
+2. Sociological study
 
+
+Who talks about it ?
+
+politics
+society
+
+what feelings are generated ?
+
+sentiment analysis
+
+where is it accepted the most ?
+
+hatecrimes etc ?
 
 ![Alt text](./assets/img/output_68_0.jpg?raw=true "Title")
 
