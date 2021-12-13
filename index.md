@@ -15,4 +15,7 @@ In our data story, we are going to focus on the evolution of opinions regarding 
 
 
 ## Index
-can add links to different parts
+1. Basic explorations
+2. 
+
+img: ./assets/img/prideflag.jpg
