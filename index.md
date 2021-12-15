@@ -42,10 +42,11 @@ As we can see **actors** play a very important role, the politicians are quite f
 Finally, when analyzing the coverage of a minority's rights, it is interesting to look at the gender of the speakers as in the U.S, white males are often over-represented and tend to have more spaces and time to express their opinions whereas others minority, even the concerned one are less heard. Let's see if it the case here:
 
 ![Alt text](gender_all_log.png?raw=true "Title")
-![Alt text](gender_2015.png?raw=true "Title")
-![Alt text](gender_2019.png?raw=true "Title")
-![Alt text](other_gender_2015.png?raw=true "Title")
-![Alt text](other_gender_2019.png?raw=true "Title")
+
+2015                       |  2019
+:-------------------------:|:-------------------------:
+![Alt text](gender_2015.png?raw=true "Title")   |  ![Alt text](gender_2019.png?raw=true "Title")
+![Alt text](other_gender_2015.png?raw=true "Title") |![Alt text](other_gender_2019.png?raw=true "Title")
 
 
 
