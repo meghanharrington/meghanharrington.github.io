@@ -28,11 +28,13 @@ For Florida, it is not a a very progressive state as same-sex sexual activity be
 In opposition, Texas has always been a very conservative state and LGBT people face legal and social challenges and discriminations. There is no statewide law banning anti-LGBT discrimination.
 
 Now let's see the repartition of **democrats/republicans** speakers:
+
 ![Alt text](./assets/proportion_d_r.png?raw=true "Title")
 
 Democrats, who tend to support LGBT rights, talk more on the subject than republicans. 
 
 But politicians are not the major part of the debat. Indeed, lots of other personnailities talk on gay right. Let's look at their different occupations:
+
 ![Alt text](./assets/occupations.png?raw=true "Title")
 
 As we can see actors play a very important role, quite far behind are the politicians! One could find surprising that politicians represent 9.1% while actors represent 23.3%. Politicians are the ones who can apply laws and create change, in both directions, depending on the opinion. But at the same time, actors have lots of influence and are often quoted in the media in case of a coming out or an opinion + they often play the role of a lgbtqia+ person. 
