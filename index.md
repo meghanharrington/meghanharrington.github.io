@@ -34,7 +34,7 @@ Now let's see the repartition of **democrats/republicans** speakers:
 
 ![Alt text](proportion_d_r.png?raw=true "Title")
 
-Democrats, who tend to support LGBT rights, talk more on the subject than republicans. 
+**Democrats**, who tend to support LGBT rights, talk more on the subject than **republicans.** 
 
 But politicians are not the major part of the debat. Indeed, lots of other personnailities talk on gay right. Let's look at their different occupations:
 
@@ -42,7 +42,7 @@ But politicians are not the major part of the debat. Indeed, lots of other perso
 
 As we can see **actors** play a very important role, the politicians are quite far behind! One could find surprising that **politicians represent 9.1%** while **actors represent 23.3%**. Politicians are the ones who can apply laws and create change, in both directions, depending on the opinion. But at the same time, actors have lots of **influence** and are often quoted in the media in case of a **coming out** or an opinion + they often play the role of a LGBTQIA+ person. 
 
-Finally, when analyzing the coverage of a minority's rights, it is interesting to look at the gender of the speakers as in the U.S, white males are often over-represented and tend to have more spaces and time to express their opinions whereas others minority, even the concerned one are less heard. Let's see if it the case here:
+Finally, when analyzing the coverage of a minority's rights, it is interesting to look at the **gender of the speakers** as in the U.S, **white males are often over-represented** and tend to have more spaces and time to express their opinions whereas others minority, even the concerned one are less heard. Let's see if it the case here:
 
 ![Alt text](gender_all_log.png?raw=true "Title")
 
@@ -53,16 +53,16 @@ Finally, when analyzing the coverage of a minority's rights, it is interesting t
 
 
 
-As expected, males represent almost 75% of the speakers. We can see a small increase of women speakers between 2015 and 2019. The distribution without male and women represented allows us to visualize minorities that are completely crushed by men and women. On this new scale, transgender female are very present as well as non-binary person. 
-Therefore, it is interesting to note that a majority of the quotes are from male speakers. It really shows that LGBTQIA+ people are still not as represented as they should, even on the topics of their own rights.
+As expected, **males represent almost 75% of the speakers**. We can see a small increase of women speakers between 2015 and 2019. The distribution without male and women represented allows us to visualize minorities that otherwise are completely crushed by men and women. On this new scale, transgender female are very present as well as non-binary person. 
+Therefore, it is interesting to note that a **majority of the quotes** are from **male speakers**. It really shows that LGBTQIA+ people are still not as represented as they should, even on the topics of their own rights.
 
-And last but not least, religion is often evoked when talking about LGBTGIA+ rights and acceptance. We wanted to have a look at the distribution of religion related to quotes. 
+And last but not least, **religion is often evoked** when talking about LGBTGIA+ rights and acceptance. We wanted to have a look at the distribution of religion related to quotes. 
 ![Alt text](religion.png?raw=true "Title")
 
-Catholics represent 13% of the U.S population, baptists 15%, atheists about 4% and jewish 2% whereas muslims are 1.1%. Therefore the distribution is quite logical and follows the order of porportion, except for baptists who tend to talk less about it then other religions.
+**Catholics** represent **13%** of the U.S population, **baptists 15%**, **atheists about 4%** and **jewish 2%** whereas **muslims are 1.1%**. Therefore the distribution is quite logical and follows the order of porportion, except for baptists who tend to talk less about it then other religions.
 
 
-[Link to test map](https://meghanharrington.github.io/topic_2015.html)
+[Link to test map](topic_2015.html)
 https://meghanharrington.github.io/topic_2015.html
 {% include topic_2015.html %}
 
