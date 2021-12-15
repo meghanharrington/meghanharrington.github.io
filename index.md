@@ -34,10 +34,6 @@ As we can see actors play a very important role, quite far behind are the politi
 
 
 
-
-politics
-society
-
 what feelings are generated ?
 
 ![Alt text](./assets/topic_2015.html?raw=true "Title")
