@@ -30,6 +30,7 @@ society
 what feelings are generated ?
 
 ![Alt text](./assets/topic_2015.html?raw=true "Title")
+https://github.com/Automating-GIS-processes/Exercise-5/blob/master/docs/test_map.html
 
 where is it accepted the most ?
 
