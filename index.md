@@ -31,6 +31,11 @@ what feelings are generated ?
 
 ![Alt text](./assets/topic_2015.html?raw=true "Title")
 https://github.com/Automating-GIS-processes/Exercise-5/blob/master/docs/test_map.html
+https://github.com/meghanharrington/meghanharrington.github.io/blob/master/topic_2015.html
+automating-gis-processes.github.io/exercise-5-MyGitHubUserName
+[Link to test map](https://automating-gis-processes.github.io/exercise-5-HTenkanen/test_map.html)
+[Link to test map](https://meghanharrington.github.io/meghanharrington.github.io/topic_2015.html)
+
 
 where is it accepted the most ?
 
