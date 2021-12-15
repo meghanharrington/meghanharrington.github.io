@@ -81,7 +81,24 @@ In 2019, a topic sorts out which contains the words **child, parent, and sexuali
 There have also been lots of debate with the increasing number of **film or TV shows involving LGBTQIA+ people** in it. If it is seen as a major progress to acceptance and more representations, some conservative movement claim that it is not appropriate for children especially. In 2019, major LGBTQIA+ movies came out, such as BPM (beats per minutes) or Call me by your name. 
 
 
+# ACCEPTANCE
 
+As we have seen so far, U.S have voted some important laws toward equality for LGBTQIA+, with the gay marriage and child adoption. Nevertheless, the community still faces lots and various form of discriminations and violence all over the states. We wanted to have a look and compare each state to see where it is the most accepted and equally-treated and where it is the worst.
+
+First, let's see how the distribution of hate crimes due to sexual orientation in all the states has evolved in 2015 and 2019.
+
+![Alt text](./assets/img/output_50_0.png?raw=true "Title")
+![Alt text](./assets/img/output_56_0.png?raw=true "Title")
+
+
+Most of the states have very small values with less then 100 cases. But some states stand out with high peaks. In California, for example, it went from around 550 to almost 700 cases. Same for Washington, with around 200 in 2015 and almost 300 in 2019. In Texas as well, with an augmentation of almost 100 cases.
+Overall, the number of assaults has increased from 2015 to 2019. 
+
+Moreover, we collected our data from the FBI website but it is likely dramatically underestimated as point out experts, because of given flaws in the current data collection process and massive discrepancies with the much larger number of self-reported incidents.
+
+Finally, we collected data on LGBTQIA+ population over the states to see where it is the most important.
+
+Graph lgbt density
 
 
 
