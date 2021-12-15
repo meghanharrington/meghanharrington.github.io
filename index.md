@@ -62,6 +62,24 @@ And last but not least, **religion is often evoked** when talking about LGBTGIA+
 **Catholics** represent **13%** of the U.S population, **baptists 15%**, **atheists about 4%** and **jewish 2%** whereas **muslims are 1.1%**. Therefore the distribution is quite logical and follows the order of porportion, except for baptists who tend to talk less about it then other religions.
 
 
+# Topic modelling
+
+![Alt text](topic_2015_2.png?raw=true "Title")
+
+The topic modelling from 2015 reveals that marriage is a topic that was very frequent. It was associated with right, discrimination, equality. Indeed, the gay marriage was legalized in the 50 states on June 26, 2015 ruled by the Supreme Court. The matter has been the focus of speculation for month. Barack Obama, president at the time,  praised the Supreme Court's ruling. Before this decision, it has been a very stormy debate with multiple states that banned it but also several states that legalized it and then re-banned it few years later. Even Barack Obama did not have a very clear position on it and had several declaration in both directions. What really made the difference was not solely the work of the lawyers and plaintiffs who brought the case but really the decades of activism that made the idea of gay marriage seem right. This demonstrates the impact Americans had on the evolution of the law.  It is therefore very interesting to look at statements from all Americans.
+
+![Alt text](mean_score_pol_people.png?raw=true "Title")
+
+It shows that the Americans tend to have slightly increase the positive sentiment of their quotations from 2015 to 2020 and in the same pattern, slighlty decrease the negative sentiment with nevertheless a peak in 2016 (might have a link with Trump's election). For politicians, the tendency is quite opposite, with minor decrease in positivity and minor increase in negative sentiment.
+
+![Alt text](topic_2019.png?raw=true "Title")
+
+In 2019, a topic that sorts out which contains the words child, parent, and sexuality. It is a really interesting bag of words as it points out various subject that emerged through the year. After the legalization of marriage, a key subject is child adoption. Until 2017, laws related to LGBT+ couples adopting children varied by state. Some states granted full adoption rights to same-sex couples, while others banned same-sex adoption or only allowed one partner in a same-sex relationship to adopt the biological child of the other. But, on June 26, 2017, the U.S Supreme Court made adoption by same-sex couples legal in all 50 states. Attitudes toward same-sex parenting have improved as the number of same-sex couples and same-sex parenting overall has increased in the U.S.
+
+There have also been lots of debate with the increasing number of film or TV shows involving LGBTQIA+ people in it. If it is seen as a major progress to acceptance and more representations, some conservative movement claim that it is not appropriate for children especially. In 2019, major LGBTQIA+ movies came out, such as BPM (beats per minutes) or Call me by your name. 
+
+
+
 
 [Link to test map](https://meghanharrington.github.io/topic_2015.html)
 
