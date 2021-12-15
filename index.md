@@ -19,13 +19,13 @@ As it is a societal topic, lots of different persons talk about it. Let's see wh
 
 ![Alt text](distrib_speakers_2015.png?raw=true "Title")
 
-As we can see **California, Vermont, Florida and Texas** are the major states who talk about it. For California it is not surprising as it is considered as a very liberal state in regard to LGBT rights. Discrimination protections regarding sexual orientation and gender identity were adopted in 2003. It is also the first state in the U.S. to legalize domestic partnerships between same-sex couples in 1999. Same-sex adoption has also been legal statewide since 2003, permitting stepchild adoption and joint adoption between same-sex couples. 
+As we can see **California, Vermont, Florida and Texas** are the major states who talk about it. For **California** it is not surprising as it is considered as a very **liberal state** in regard to **LGBT rights**. Discrimination protections regarding sexual orientation and gender identity were adopted in **2003**. It is also the first state in the U.S. to **legalize domestic partnerships between same-sex couples in 1999**. Same-sex adoption has also been legal statewide since 2003, permitting stepchild adoption and joint adoption between same-sex couples. 
 
-Same for Vermont, which is seen as the most LGBT-friendly state. It was the first state to legally recognize same-sex unions, when it established civil unions for same-sex couples in 2000. Same-sex marriage was then legalized in 2009, way before national legalization in  2015. 
+Same for **Vermont**, which is seen as the most **LGBT-friendly** state. It was the **first state to legally recognize same-sex unions**, when it established civil unions for same-sex couples in 2000. Same-sex marriage was then legalized in 2009, way before national legalization in  2015. 
 
-For Florida, it is not a a very progressive state as same-sex sexual activity became legal after Supreme Court's decision on June 26, 2003. Nevertheless, there are laws to protect against LGBT discrimination. 
+For **Florida**, it is not a a very progressive state as same-sex sexual activity became legal after Supreme Court's decision on June 26, 2003. Nevertheless, there are laws to protect against LGBT discrimination. 
 
-In opposition, Texas has always been a very conservative state and LGBT people face legal and social challenges and discriminations. There is no statewide law banning anti-LGBT discrimination.
+In opposition, **Texas** has always been a very **conservative state** and LGBT people face legal and social challenges and discriminations. There is no statewide law banning anti-LGBT discrimination.
 
 Now let's see the repartition of **democrats/republicans** speakers:
 
@@ -37,15 +37,30 @@ But politicians are not the major part of the debat. Indeed, lots of other perso
 
 ![Alt text](occupations.png?raw=true "Title")
 
-As we can see actors play a very important role, quite far behind are the politicians! One could find surprising that politicians represent 9.1% while actors represent 23.3%. Politicians are the ones who can apply laws and create change, in both directions, depending on the opinion. But at the same time, actors have lots of influence and are often quoted in the media in case of a coming out or an opinion + they often play the role of a lgbtqia+ person. 
+As we can see **actors** play a very important role, the politicians are quite far behind! One could find surprising that **politicians represent 9.1%** while **actors represent 23.3%**. Politicians are the ones who can apply laws and create change, in both directions, depending on the opinion. But at the same time, actors have lots of **influence** and are often quoted in the media in case of a **coming out** or an opinion + they often play the role of a LGBTQIA+ person. 
+
+Finally, when analyzing the coverage of a minority's rights, it is interesting to look at the gender of the speakers as in the U.S, white males are often over-represented and tend to have more spaces and time to express their opinions whereas others minority, even the concerned one are less heard. Let's see if it the case here:
+
+gender_all
+gender_all_log
+gender_2019
+gender_2015
+dsitrib_other_gender_all
+
+other_gender_2015
+other_gender_2019
+
+
+
+
+
+
 
 
 ok
 what feelings are generated ?
 
-![Alt text](http://topic_2015.html?raw=true "Title")
-![Alt text](https://cdn.jsdelivr.net/gh/bmabey/pyLDAvis@3.3.1/pyLDAvis/js/ldavis.v1.0.0.css)
-{% include topic_2015.html %}
+![Alt text](topic_2015.html?raw=true "Title")
 
 where is it accepted the most ?
 
