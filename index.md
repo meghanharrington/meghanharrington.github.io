@@ -62,7 +62,7 @@ And last but not least, **religion is often evoked** when talking about LGBTGIA+
 **Catholics** represent **13%** of the U.S population, **baptists 15%**, **atheists about 4%** and **jewish 2%** whereas **muslims are 1.1%**. Therefore the distribution is quite logical and follows the order of porportion, except for baptists who tend to talk less about it then other religions.
 
 
-# Topic modelling
+# What are they saying ?
 
 ![Alt text](topic_2015_2.png?raw=true "Title")
 
