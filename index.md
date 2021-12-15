@@ -19,7 +19,10 @@ In our data story, we are going to focus on the evolution of opinions regarding 
 2. Sociological study
 
 
-Who talks about it ?
+# Who talks about it ?
+As it is a societal topic, lots of different persons talk about it. Let's see what **politicians** say about it.
+
+
 
 politics
 society
