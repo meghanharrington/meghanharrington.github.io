@@ -98,20 +98,10 @@ Moreover, we collected our data from the FBI website but it is likely dramatical
 
 Finally, we collected data on LGBTQIA+ population over the states to see where it is the most important.
 
-Graph lgbt density
+![Alt text](./assets/img/output_68_0.jpg?raw=true "Title")
 
 
 
 [Link to test map](https://meghanharrington.github.io/topic_2015.html)
 
 
-
-where is it accepted the most ?
-
-hatecrimes ?
-
-![Alt text](./assets/img/output_68_0.jpg?raw=true "Title")
-
-
-Evolution of hate crimes related to sexual orientation in each state in 2015 and 2019.
-![Alt text](./assets/img/output_56_0.png?raw=true "Title") ![Alt text](./assets/img/output_50_0.png?raw=true "Title")
