@@ -50,13 +50,13 @@ Finally, when analyzing the coverage of a minority's rights, it is interesting t
 
 
 
+As expected, males represent almost 75% of the speakers. We can see a small increase of women speakers between 2015 and 2019. The distribution without male and women represented allows us to visualize minorities that are completely crushed by men and women. On this new scale, transgender female are very present as well as non-binary person. 
+Therefore, it is interesting to note that a majority of the quotes are from male speakers. It really shows that LGBTQIA+ people are still not as represented as they should, even on the topics of their own rights.
 
+And last but not least, religion is often evoked when talking about LGBTGIA+ rights and acceptance. We wanted to have a look at the distribution of religion related to quotes. 
+![Alt text](religion.png?raw=true "Title")
 
-
-
-
-ok
-what feelings are generated ?
+Catholics represent 13% of the U.S population, baptists 15%, atheists about 4% and jewish 2% whereas muslims are 1.1%. Therefore the distribution is quite logical and follows the order of porportion, except for baptists who tend to talk less about it then other religions.
 
 
 [Link to test map](https://meghanharrington.github.io/topic_2015.html)
