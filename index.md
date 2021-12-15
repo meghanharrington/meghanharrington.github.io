@@ -17,7 +17,10 @@ In our data story, we are going to focus on the evolution of opinions regarding 
 # Who talks about it ?
 As it is a societal topic, lots of different persons talk about it. Let's see what **politicians** say about it. First, let see the distribution of senators in each state.
 
-![Alt text](distrib_speakers_2015.png?raw=true "Title")
+
+2015                       |  2019
+:-------------------------:|:-------------------------:
+![Alt text](top_states_2015.png?raw=true "Title") | ![Alt text](top_states_2019.png?raw=true "Title")
 
 As we can see **California, Vermont, Florida and Texas** are the major states who talk about it. For **California** it is not surprising as it is considered as a very **liberal state** in regard to **LGBT rights**. Discrimination protections regarding sexual orientation and gender identity were adopted in **2003**. It is also the first state in the U.S. to **legalize domestic partnerships between same-sex couples in 1999**. Same-sex adoption has also been legal statewide since 2003, permitting stepchild adoption and joint adoption between same-sex couples. 
 
