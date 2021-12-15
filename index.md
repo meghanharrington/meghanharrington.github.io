@@ -59,8 +59,7 @@ Finally, when analyzing the coverage of a minority's rights, it is interesting t
 ok
 what feelings are generated ?
 
-![Alt text](topic_2015.html?raw=true "Title")
-[Link to test map](https://automating-gis-processes.github.io/exercise-5-HTenkanen/test_map.html)
+
 [Link to test map](https://meghanharrington.github.io/topic_2015.html)
 
 where is it accepted the most ?
