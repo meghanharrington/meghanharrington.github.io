@@ -19,7 +19,12 @@ As it is a societal topic, lots of different persons talk about it. Let's see wh
 
 ![Alt text](./assets/distrib_speakers_2015.png?raw=true "Title")
 
-As we can see **California, Vermont, Florida and Texas** are the major states who talk about it. For California it is not surprising as it is considered as a very liberal state in regard to LGBT rights. Discrimination protections regarding sexual orientation and gender identity were adopted in 2003. It is also the first state in the U.S. to legalize domestic partnerships between same-sex couples in 1999. Same-sex adoption has also been legal statewide since 2003, permitting stepchild adoption and joint adoption between same-sex couples. Same for Vermont, which is seen as the most LGBT-friendly state. It was the first state to legally recognize same-sex unions, when it established civil unions for same-sex couples in 2000. Same-sex marriage was then legalized in 2009, way before national legalization in  2015. For Florida, it is not a a very progressive state as same-sex sexual activity became legal after Supreme Court's decision on June 26, 2003. Nevertheless, there are laws to protect against LGBT discrimination. 
+As we can see **California, Vermont, Florida and Texas** are the major states who talk about it. For California it is not surprising as it is considered as a very liberal state in regard to LGBT rights. Discrimination protections regarding sexual orientation and gender identity were adopted in 2003. It is also the first state in the U.S. to legalize domestic partnerships between same-sex couples in 1999. Same-sex adoption has also been legal statewide since 2003, permitting stepchild adoption and joint adoption between same-sex couples. 
+
+Same for Vermont, which is seen as the most LGBT-friendly state. It was the first state to legally recognize same-sex unions, when it established civil unions for same-sex couples in 2000. Same-sex marriage was then legalized in 2009, way before national legalization in  2015. 
+
+For Florida, it is not a a very progressive state as same-sex sexual activity became legal after Supreme Court's decision on June 26, 2003. Nevertheless, there are laws to protect against LGBT discrimination. 
+
 In opposition, Texas has always been a very conservative state and LGBT people face legal and social challenges and discriminations. There is no statewide law banning anti-LGBT discrimination.
 
 Now let's see the repartition of **democrats/republicans** speakers:
@@ -40,7 +45,7 @@ what feelings are generated ?
 
 where is it accepted the most ?
 
-hatecrimes etc ?
+hatecrimes ?
 
 ![Alt text](./assets/img/output_68_0.jpg?raw=true "Title")
 
