@@ -26,7 +26,6 @@ society
 
 what feelings are generated ?
 
-[Link to topic_2015](https://meghanharrington.github.io/blob/master/topic_2015.html)
 
 where is it accepted the most ?
 
