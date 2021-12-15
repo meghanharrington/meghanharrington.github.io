@@ -61,6 +61,7 @@ what feelings are generated ?
 
 ![Alt text](topic_2015.html?raw=true "Title")
 [Link to test map](https://automating-gis-processes.github.io/exercise-5-HTenkanen/test_map.html)
+![Alt text](https://meghanharrington.github.io/topic_2015.html)
 
 where is it accepted the most ?
 
