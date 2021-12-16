@@ -22,9 +22,9 @@ As it is a societal topic, lots of different persons talk about it. Let's see wh
 We will focus on the 4 major States and see how it evolves from 2015 to 2019.
 
 
-2015                                              | 2019
-:------------------------------------------------:|:-------------------------------------------------:
-![Alt text](top_states_2015.png?raw=true "Title") | ![Alt text](top_states_2019.png?raw=true "Title")
+2015                                                                | 2019
+:------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:
+![Alt text](top_states_2015.png?raw=true "Title")                   | ![Alt text](top_states_2019.png?raw=true "Title")
 
 As we can see **California, New York, Florida and Texas** are the major states who talk about it. For **California** it is not surprising as it is considered as a very **liberal state** in regard to **LGBT+ rights**. Discrimination protections regarding sexual orientation and gender identity were adopted in **2003**. It is also the first state in the U.S. to **legalize domestic partnerships between same-sex couples in 1999**. Same-sex adoption has also been legal statewide since 2003, permitting stepchild adoption and joint adoption between same-sex couples. 
 
@@ -48,10 +48,10 @@ As we can see **actors** play a very important role, the politicians are quite f
 
 Finally, when analyzing the coverage of a minority's rights, it is interesting to look at the **gender of the speakers** as in the U.S, **white males are often over-represented** and tend to have more spaces and time to express their opinions whereas other minorities, even the concerned ones are less heard. Let's see if it the case here:
 
-2015                                                | 2019
-:--------------------------------------------------:|:---------------------------------------------------:
-![Alt text](gender_2015.png?raw=true "Title")       |  ![Alt text](gender_2019.png?raw=true "Title")
-![Alt text](other_gender_2015.png?raw=true "Title") |![Alt text](other_gender_2019.png?raw=true "Title")
+2015                                                                          | 2019
+:----------------------------------------------------------------------------:|:--------------------------------------------------------------------------:
+![Alt text](gender_2015.png?raw=true "Title")                                 |  ![Alt text](gender_2019.png?raw=true "Title")
+![Alt text](other_gender_2015.png?raw=true "Title")                           |![Alt text](other_gender_2019.png?raw=true "Title")
 
 
 
@@ -72,7 +72,7 @@ As we have seen, many different people with different opinions talk about the LG
 
 ![Alt text](wordbubbles.png?raw=true "Title")
 
-Over all our datas, we modelled the different topics discussed in all the quotes to see what are **the major concerns and debate around the LGBT+ community.** This analysis revealed **7 distinct topics. **
+Over all our datas, we modelled the different topics discussed in all the quotes to see what are **the major concerns and debate around the LGBT+ community.** This analysis revealed **7 distinct topics**.
 
 - The first one, in **blue**, represents the different sort of **discrimination: race, gender and sexual orientation discrimination.** The term **'pay'** comes up, as lots of studies have shown that there is a gap between men and women salary, as well as between black people and white people, and also between gay and heterosexual people. A study has shown that the gender gap is also present between gay people:  according to the Williams Institute, **women in same-sex couples have a median personal income of $38,000** compared to **$47,000 for men in same-sex couples**. Indeed, the different sort of discriminations tend to cross over, it is called **intersectionality.** It explains why the other kind of discrimination are also present in our data as it is all very linked together.
 
@@ -106,7 +106,7 @@ To conclude, what really made the difference for the evolution of gay rights was
 
 
 # Sentiment Analysis
-From what we have seen so far, it is obvious that we talk more about the LGBTQ+ topic today than in 2015. In fact, the number of quotations on Quotebank related to the topic went from 844 in 2015 to 73088 in 2019 which means **multiplying the speeches about the gay rights by 86**, but does it necessarily mean the **LGBT community is more accepted?**
+From what we have seen so far, it is obvious that we talk more about the LGBTQ+ topic today than in 2015. In fact, the number of quotations on Quotebank related to the topic went from **844 in 2015** to **73088 in 2019** which means **multiplying the speeches about the gay rights by 86**, but does it necessarily mean the **LGBT community is more accepted?**
 
 ![Alt text](good_proportion.png?raw=true "Title")
 
@@ -116,43 +116,41 @@ However, we can distinguish the politicians’ statements from the overall popul
 
 ![Alt text](mean_score_pol_people.png?raw=true "Title")
 
-Indeed, looking at the politicians' statements we notice an increasing proportion of positive sentences from 2015 to 2018, then this proportion started to decrease in contrast to the negative proportion that is dangerously increasing still today. 
-On the other hand we can observe the proportion of positive sentences in Americans' statements is increasing and taking over the negative proportion that decreases.
+Indeed, looking at the **politicians** statements we notice an **increasing proportion of positive sentences from 2015 to 2018**, then this proportion started to decrease in contrast to the **negative proportion that is dangerously increasing** still today. 
+On the other hand we can observe the proportion of **positive sentences in Americans** statements is **increasing** and taking over the negative proportion that decreases.
 
 One more time we can see that **progress is unstable**, nothing is certain, getting rights is a constant fight and laws can go backwards anytime.
 
 
 # Acceptance over the States 
 
-As we have seen so far, U.S have voted some important laws toward equality for LGBTQIA+, with the gay marriage and child adoption. Nevertheless, the community still faces lots and various form of discriminations and violence all over the states. We wanted to have a look and compare each state to see where it is the most accepted and equally-treated and where it is the worst.
+As we have seen so far, **U.S** have voted some important laws toward **equality for LGBTQIA+**, with the **gay marriage** and **child adoption**. Nevertheless, the community still faces lots and various form of **discriminations and violence** all over the states. We wanted to have a look and compare each state to see where it is the most accepted and equally-treated and where it is the worst.
 
-First, let's see how the distribution of hate crimes due to sexual orientation in all the states has evolved in 2015 and 2019.
+First, let's see how the distribution of **hate crimes due to sexual orientation** in all the states has evolved in 2015 and 2019.
 
 ![Alt text](distrib_hc.png?raw=true "Title")
 
-Most of the states have very small pourcentage (with respect to their population size) with less then 0.002% of cases. But some states stand out with high peaks. Especially in the Distric of Columbia which have tremendously high numbers. From 2015 to 2019 it doubled in proportion, going from 0.012% to more then 0.025%. Washington has registered also an increase, going from 0.014 to 0.0025%. In Vermont, it went from 0.001 to 0.004%. Overall, the number of assaults stayed mostly constant with minor decreasing or increasing from 2015 to 2019. 
+Most of the states have very small pourcentage (with respect to their population size) with less then 0.002% of cases. But some states stand out with high peaks. Especially in the **Distric of Columbia** which have tremendously high numbers. From **2015 to 2019** it doubled in proportion, **going from 0.012% to more then 0.025%**. **Washington** has registered also an **increase, going from 0.014 to 0.0025%.** In **Vermont**, it went **from 0.001 to 0.004%**. Overall, the number of assaults stayed mostly constant with minor decreasing or increasing in some states from 2015 to 2019. 
 
-Nevertheless, we collected our data from the FBI website but it is likely dramatically underestimated as point out experts, because of given flaws in the current data collection process and massive discrepancies with the much larger number of self-reported incidents. The real number of hate crimes over the states could be much more important.
+Nevertheless, we collected our data from the **FBI** website but it is likely **dramatically underestimated** as point out experts, because of given **flaws in the current data collection process** and **massive discrepancies with the much larger number of self-reported incidents**. The real number of hate crimes over the states could be much more important.
 
 Finally, we collected data on LGBT+ population over the states to see where it is the most important.
 
 ![Alt text](./assets/img/output_68_0.jpg?raw=true "Title")
 
-This graphs reveals a very interesting element: District of Columbia has the highest LGBT+ density and is also the State with the highest number of hate crime related to sexual orientation. We would expect that where the LGBT+ community is the most present, it would be in very progressive states and that the hate crimes would not be so important. But the graphs show the opposite. This might be due to very conservative and homophobic movement in reaction of this "high" density of LGBT+ people. It is very alarming especially for D.C. 
-
-
+This graphs reveals a very interesting element: **District of Columbia** has the **highest LGBT+ density** and is also the State with the **highest number of hate crime related to sexual orientation**. We would expect that where the LGBT+ community is the most present, it would be in very progressive states and that the hate crimes would not be so important. But the graphs show the opposite. This might be due to very **conservative and homophobic movement** in reaction of this "high" density of LGBT+ people. It is very alarming especially for D.C. 
 
 # Conclusion
 
-From our analysis, we have seen that there are lots of different actors on the LGBT+ rights topic. First of all, people who talk the most about it are not the persons concerned but rather the dominant classes. Politicians are major speakers as they make laws in order to extend or reduce the rights of this community. But, as it is a societal matter, public opinion is a key component of the debate. Where politicians tend to stand in retreat and be less committed, activist and actors take strong positions. We know that culture, through movies, books, or TV shows allow Americans to open their mind and accept each other. Indeed, sentiment analysis revealed that Americans quotes are getting slightly more positive over the years. 
+From our analysis, we have seen that there are **lots of different actors** on the **LGBT+ rights** topic. First of all, people who talk the most about it are not the persons concerned but rather the **dominant classes**. **Politicians** are major speakers as they make laws in order to extend or reduce the rights of this community. But, as it is a **societal matter**, public opinion is a key component of the debate. Where politicians tend to stand in retreat and be less committed, **activist and actors** take **strong positions**. We know that **culture**, through **movies, books, or TV shows** allow Americans to **open their mind and accept each other.** Indeed, sentiment analysis revealed that Americans quotes are getting slightly more positive over the years. 
 
-However, it can still evolve in one direction or another. Conservative movements have lots of power in America. Some progressive laws have already been cancelled in the past, as we have seen it with gay marriage in several states. 
+However, it can still evolve in one direction or another. **Conservative movements** have lots of **power** in America. Some progressive laws have already been cancelled in the past, as we have seen it with gay marriage in several states. 
 
-Regarding the hate crimes, it confirms that LGBT+ community is not fully accepted and suffers from very violent assaults and discriminations. The protection of the community needs to be reformed as it is inexistent in some states. 
+Regarding the **hate crimes**, it confirms that LGBT+ community is not fully accepted and suffers from very **violent assaults and discriminations**. The **protection** of the community needs to be reformed as it is **inexistent** in some states. 
 
-In conclusion, there has been an unquestionable liberation of speech these last few years that have allowed more voices to be heard. We may think this imply major improvements in gay rights and acceptance but there is still a lot of work to do to rich equality. 
+In conclusion, there has been an unquestionable **liberation of speech** these last few years that have allowed more voices to be heard. We may think this imply major improvements in gay rights and acceptance but there is still a lot of work to do to rich **equality**. 
 
-We have got to keep fighting!
+**We have got to keep fighting!**
 
 [Link to test map](https://meghanharrington.github.io/topic_2015.html)
 
