@@ -73,7 +73,7 @@ As we have seen, many different people with different opinions talk about the LG
 <img src="wbfinal.png" alt="drawing" width="750"/>
 
 
-Over all our data, we modelled the different topics discussed in all the quotes to see what are **the major concerns and debates around the LGBTQ+ community.** This analysis revealed **7 distinct topics**.
+Over all our data, we modelled the different topics discussed in all the quotes to see what are **the major concerns and debates around the LGBTQ+ community.** In order to obtain these topics, we used an unsupervised topic modeling algorithm called Latent Dirichlet Allocation. Given a number of topics to detect, this algorithm provides us with collections of words that can be interpreted as topics. We found that the best results revealed **7 distinct topics**.
 
 - The first one, in **blue**, represents the different sorts of **discrimination: by race, gender and sexual orientation.** The term **'pay'** comes up, as lots of studies have shown that there is a gap between mens' and womens' salaries, as well as between black people and white people, and gay and heterosexual people. A study has shown that the gender pay gap is also present among gay people:  according to the Williams Institute, **women in same-sex couples have a median personal income of $38,000** compared to **$47,000 for men in same-sex couples**. Indeed, the different sorts of discrimination tend to cross over, it is called **intersectionality.** It explains why the other kinds of discriminations are also present in our data as it is all very linked together.
 
