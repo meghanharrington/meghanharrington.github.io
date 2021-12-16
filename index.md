@@ -40,7 +40,7 @@ But politicians are not the major part of the debat. Indeed, lots of other perso
 
 ![Alt text](occupations.png?raw=true "Title")
 
-As we can see **actors** play a very important role, the politicians are quite far behind! One could find surprising that **politicians represent 9.1%** while **actors represent 23.3%**. Politicians are the ones who can apply laws and create change, in both directions, depending on the opinion. But at the same time, actors have lots of **influence** and are often quoted in the media in case of a **coming out** or an opinion + they often play the role of a LGBTQIA+ person. 
+As we can see **actors** play a very important role, the politicians are quite far behind! One could find surprising that **politicians represent 9.1%** while **actors represent 23.3%**. Politicians are the ones who can apply laws and create change, in both directions, depending on the opinion. But at the same time, actors have lots of **influence** beacause of there exposition and are often quoted in the media in case of a **coming out** or an opinion, also, they often play the role of a LGBT+ person. 
 
 Finally, when analyzing the coverage of a minority's rights, it is interesting to look at the **gender of the speakers** as in the U.S, **white males are often over-represented** and tend to have more spaces and time to express their opinions whereas others minority, even the concerned one are less heard. Let's see if it the case here:
 
