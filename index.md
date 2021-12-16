@@ -70,6 +70,7 @@ As we have seen, many different people with different opinions talk about the LG
 
 # What are they saying ?
 
+<img src="wordbubble_1.png" alt="drawing" width="200"/>
 ![Alt text](wordbubble_1.png?raw=true "Title")
 ![Alt text](wordbubble_2.png?raw=true "Title")
 
