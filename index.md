@@ -116,8 +116,8 @@ However, we can distinguish the politicians’ statements from the overall popul
 
 ![Alt text](mean_score_pol_people.png?raw=true "Title")
 
-Indeed, in the politicians' statements we notice an increasing proportion of positive sentences from 2015 to 2018, then this proportion started to decrease in contrast to the negative proportion that is dangerously increasing still today. 
-On the other hand we can observe the American proportion of positive sentences is increasing and taking over the negative proportion that decreases.
+Indeed, looking at the politicians' statements we notice an increasing proportion of positive sentences from 2015 to 2018, then this proportion started to decrease in contrast to the negative proportion that is dangerously increasing still today. 
+On the other hand we can observe the proportion of positive sentences in Americans' statements is increasing and taking over the negative proportion that decreases.
 
 One more time we can see that **progress is unstable**, nothing is certain, getting rights is a constant fight and laws can go backwards anytime.
 
