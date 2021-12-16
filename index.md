@@ -23,7 +23,7 @@ We will focus on the 4 major states and see how it evolves from 2015 to 2019.
 
 
 2015                                                                | 2019
-:------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:
+:---------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:
 ![Alt text](top_states_2015.png?raw=true "Title")                   | ![Alt text](top_states_2019.png?raw=true "Title")
 
 As we can see **California, New York, Florida and Texas** are the major states who talk about it. For **California** it is not surprising as it is considered to be a very **liberal state** in regard to **LGBTQ+ rights**. Discrimination protections regarding sexual orientation and gender identity were adopted in **2003**. In 1999, California was also the first state in the U.S. to **legalize domestic partnerships between same-sex couples**. Same-sex adoption has also been legal statewide since 2003, permitting stepchild adoption and joint adoption between same-sex couples. 
@@ -70,7 +70,7 @@ As we have seen, many different people with different opinions talk about the LG
 
 # What are they saying ?
 
-<img src="wordbubble_1.png" alt="drawing" width="200"/>
+<img src="wordbubble_1.png" alt="drawing" width="1000"/>
 ![Alt text](wordbubble_1.png?raw=true "Title")
 ![Alt text](wordbubble_2.png?raw=true "Title")
 
