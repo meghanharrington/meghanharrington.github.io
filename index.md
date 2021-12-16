@@ -130,7 +130,7 @@ First, let's see how the distribution of **hate crimes due to sexual orientation
 
 ![Alt text](distrib_hc.png?raw=true "Title")
 
-Most of the states have very small pourcentage (with respect to their population size) with less then 0.002% of cases. But some states stand out with high peaks. Especially in the **Distric of Columbia** which have tremendously high numbers. From **2015 to 2019** it doubled in proportion, **going from 0.012% to more then 0.025%**. **Washington** has registered also an **increase, going from 0.014 to 0.0025%.** In **Vermont**, it went **from 0.001 to 0.004%**. Overall, the number of assaults stayed mostly constant with minor decreasing or increasing in some states from 2015 to 2019. 
+Most of the states have very small pourcentage (with respect to their population size) with less than 0.002% of cases. But some states stand out with high peaks. Especially in the **Distric of Columbia** which have tremendously high numbers. From **2015 to 2019** it doubled in proportion, **going from 0.012% to more then 0.025%**. **Washington** has registered also an **increase, going from 0.014 to 0.0025%.** In **Vermont**, it went **from 0.001 to 0.004%**. Overall, the number of assaults stayed mostly constant with minor decreasing or increasing in some states from 2015 to 2019. 
 
 Nevertheless, we collected our data from the **FBI** website but it is likely **dramatically underestimated** as point out experts, because of given **flaws in the current data collection process** and **massive discrepancies with the much larger number of self-reported incidents**. The real number of hate crimes over the states could be much more important.
 
