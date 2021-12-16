@@ -70,7 +70,7 @@ As we have seen, many different people with different opinions talk about the LG
 
 # What are they saying ?
 
-![Alt text](wbfinal.png?raw=true "Title")
+<img src="wbfinal.png" alt="drawing" width="750"/>
 
 
 Over all our data, we modelled the different topics discussed in all the quotes to see what are **the major concerns and debates around the LGBTQ+ community.** This analysis revealed **7 distinct topics**.
