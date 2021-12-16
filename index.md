@@ -97,7 +97,7 @@ Now let's look at the **evolution** of the topics **from 2015 to 2019**
 
 The topic modelling from 2015 reveals that **marriage** is a topic that was very frequent. It was associated with **right, discrimination, equality.** Indeed, the **gay marriage was legalized in the 50 states on June 26, 2015 ruled by the Supreme Court.** The matter was the focus of speculation for months. **Barack Obama**, president at the time,  praised the Supreme Court's ruling. Before this decision, there occurred a very stormy debate, with multiple states banning it, but also several states that legalized it and then re-banned it few years later. Even Barack Obama did not have a very clear position on it and made several declaration in both directions. 
 
-Let's see how did the topics evolved in 2019.
+Let's see how the topics evolved in 2019.
 
 ![Alt text](topic_2019.png?raw=true "Title")
 
