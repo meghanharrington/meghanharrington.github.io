@@ -64,7 +64,7 @@ And last but not least, **religion is often evoked** when talking about LGBT+ ri
 
 **Catholics** represent **13%** of the U.S population, **baptists 15%**, **atheists about 4%** and **jewish 2%** whereas **muslims are 1.1%**. As we can see the catholic community speak out a lot about the gay rights and their satements tend to protest the extension of their rights.
 
-As we have seen, many different people with different opinions talk about the LGBT+ rights but what is sure so far is that powerful white mens dominates the statements and the LGBT+ community itself is largely under represented. We have to look at what the quotes say for a deeper analysis of the related ideas.
+As we have seen, many different people with different opinions talk about the LGBT+ rights but what is sure so far is that powerful white men dominate the statements and the LGBT+ community itself is largely under-represented. We have to look at the content of the quotes for a deeper analysis of the related ideas.
 
 
 
