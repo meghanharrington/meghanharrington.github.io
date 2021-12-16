@@ -66,7 +66,7 @@ And last but not least, **religion is often evoked** when talking about LGBT+ ri
 
 As we have seen, many different people with different opinions talk about the LGBT+ rights but what is sure so far is that powerful white mens dominates the statements and the LGBT+ community itself is largely under represented. We have to look at what the quotes say for a deeper analysis of the related ideas.
 
-# Sentiment analysis
+
 
 # What are they saying ?
 
@@ -80,7 +80,7 @@ Over all our datas, we modelled the different topics discussed in all the quotes
 
 - For the **purple** topic, it concerns **same sex couples having children** with the words: **'child', 'parent', 'marriage', 'couple', 'political'.** As we have seen before, it has been a difficult fight in order to obtain the legal right to adopt for same-sex couples in 2017.
 
-- In **pink**, it is concentrated around **politics** with words like **'vote', 'candidate', 'right'.** A right is never earned and it is important to stay vigilant as new movement or government can be threatening to LGBT+ rights or even more largely, to any minority rights. The election of Trump in 2016 demonstrates it. Therefore, voting and electing tolerant candidate is crucial especially for this community.
+- In **pink**, it is concentrated around **politics** with words like **'vote', 'candidate', 'right'.** A right is never earned and it is important to stay vigilant as new movement or government can be threatening to LGBT+ rights or even more largely, to any minority rights. The election of Trump in 2016 demonstrates it. Therefore, voting and electing tolerant candidates is crucial especially for this community.
 
 - The **brown** topic is about **love** with words like **'feel', 'love', 'people'.** It's all about love at the beginning!
 
@@ -92,11 +92,7 @@ Now let's look at the **evolution** of the topics **from 2015 to 2019**
 
 ![Alt text](topic_2015_2.png?raw=true "Title")
 
-The topic modelling from 2015 reveals that **marriage** is a topic that was very frequent. It was associated with **right, discrimination, equality.** Indeed, the **gay marriage was legalized in the 50 states on June 26, 2015 ruled by the Supreme Court.** The matter has been the focus of speculation for month. **Barack Obama**, president at the time,  praised the Supreme Court's ruling. Before this decision, it has been a very stormy debate with multiple states that banned it but also several states that legalized it and then re-banned it few years later. Even Barack Obama did not have a very clear position on it and had several declaration in both directions. What really made the difference was not solely the work of the lawyers and plaintiffs who brought the case but really the **decades of activism** that made the idea of gay marriage seem right. This demonstrates **the impact Americans had on the evolution of the law**. It is therefore very interesting to look at statements from all Americans. We performed a sentimental analysis of their statements and compared it with politicians. 
-
-![Alt text](mean_score_pol_people.png?raw=true "Title")
-
-It shows that the **Americans tend to have slightly increased the positive sentiment** of their quotations from 2015 to 2020 and in the same pattern, slighlty **decreased the negative sentiment** with nevertheless a peak in 2016 (might have a link with Trump's election). For **politicians,** the tendency is quite opposite, with **minor decrease in positivity** and **minor increase in negative sentiment**. 
+The topic modelling from 2015 reveals that **marriage** is a topic that was very frequent. It was associated with **right, discrimination, equality.** Indeed, the **gay marriage was legalized in the 50 states on June 26, 2015 ruled by the Supreme Court.** The matter has been the focus of speculation for month. **Barack Obama**, president at the time,  praised the Supreme Court's ruling. Before this decision, it has been a very stormy debate with multiple states that banned it but also several states that legalized it and then re-banned it few years later. Even Barack Obama did not have a very clear position on it and had several declaration in both directions. 
 
 Let's see how did the topics evolved in 2019.
 
@@ -104,7 +100,22 @@ Let's see how did the topics evolved in 2019.
 
 In 2019, a topic sorts out which contains the words **child, parent, and sexuality**. It is a really interesting bag of words as it points out various subject that emerged through the year. After the legalization of marriage, a key subject was **child adoption.** Until 2017, laws related to LGBT+ couples adopting children varied by state. Some states granted full adoption rights to same-sex couples, while others banned same-sex adoption or only allowed one partner in a same-sex relationship to adopt the biological child of the other. But, **on June 26, 2017, the U.S Supreme Court made adoption by same-sex couples legal in all 50 states.** Attitudes toward same-sex parenting have improved as the number of same-sex couples and same-sex parenting overall has increased in the U.S.
 
-There have also been lots of debate with the increasing number of **film or TV shows involving LGBTQIA+ people** in it. If it is seen as a major progress to acceptance and more representations, some conservative movement claim that it is not appropriate for children especially. In 2019, major LGBTQIA+ movies came out, such as BPM (beats per minutes) or Call me by your name. 
+There have also been lots of debate with the increasing number of **film or TV shows involving LGBTQIA+ people** in it. If it is seen as a major progress to acceptance and more representations, some conservative movement claim that it is not appropriate for children especially. In 2019, major LGBT+ movies came out, such as BPM (beats per minutes) or Call me by your name. 
+
+To conclude, what really made the difference for the evolution of gay rights was not solely the work of the lawyers and plaintiffs who brought the case but really the **decades of activism** that made the idea of gay marriage seem right. This demonstrates **the impact Americans had on the evolution of the law**. It is therefore very interesting to look at statements from all Americans. We performed a sentimental analysis of their statements and compared it with politicians. 
+
+
+# Sentiment Analysis
+From what we have seen so far, it is obvious that we talk more about the LGBTQ+ topic today than in 2015. In fact, the number of quotations on Quotebank related to the topic went from 844 in 2015 to 73088 in 2019 which means **multiplying the speeches about the gay rights by 86**, but does it necessarily mean the **LGBT community is more accepted?**
+
+
+
+
+
+
+![Alt text](mean_score_pol_people.png?raw=true "Title")
+
+It shows that the **Americans tend to have slightly increased the positive sentiment** of their quotations from 2015 to 2020 and in the same pattern, slighlty **decreased the negative sentiment** with nevertheless a peak in 2016 (might have a link with Trump's election). For **politicians,** the tendency is quite opposite, with **minor decrease in positivity** and **minor increase in negative sentiment**. 
 
 
 # Acceptance over the states 
