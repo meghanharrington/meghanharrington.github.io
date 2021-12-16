@@ -118,7 +118,7 @@ From what we have seen so far, it is obvious that we talk more about the LGBTQ+ 
 It shows that the **Americans tend to have slightly increased the positive sentiment** of their quotations from 2015 to 2020 and in the same pattern, slighlty **decreased the negative sentiment** with nevertheless a peak in 2016 (might have a link with Trump's election). For **politicians,** the tendency is quite opposite, with **minor decrease in positivity** and **minor increase in negative sentiment**. 
 
 
-# Acceptance over the states 
+# Acceptance over the States 
 
 As we have seen so far, U.S have voted some important laws toward equality for LGBTQIA+, with the gay marriage and child adoption. Nevertheless, the community still faces lots and various form of discriminations and violence all over the states. We wanted to have a look and compare each state to see where it is the most accepted and equally-treated and where it is the worst.
 
@@ -126,16 +126,15 @@ First, let's see how the distribution of hate crimes due to sexual orientation i
 
 ![Alt text](distrib_hc.png?raw=true "Title")
 
-Most of the states have very small pourcentage (with respect to their population size) with less then 0.002% of cases. But some states stand out with high peaks. Especially in the Distric of Columbia which have tremendously high numbers. From 2015 to 2019 it doubled in proportion, going from 0.012% to more then 0.025%. Washington, Vermont and Massachussets are almost at 0.005%, 
-Overall, the number of assaults has increased from 2015 to 2019. 
+Most of the states have very small pourcentage (with respect to their population size) with less then 0.002% of cases. But some states stand out with high peaks. Especially in the Distric of Columbia which have tremendously high numbers. From 2015 to 2019 it doubled in proportion, going from 0.012% to more then 0.025%. Washington has registered also an increase, going from 0.014 to 0.0025%. In Vermont, it went from 0.001 to 0.004%. Overall, the number of assaults stayed mostly constant with minor decreasing or increasing from 2015 to 2019. 
 
-Moreover, we collected our data from the FBI website but it is likely dramatically underestimated as point out experts, because of given flaws in the current data collection process and massive discrepancies with the much larger number of self-reported incidents.
+Nevertheless, we collected our data from the FBI website but it is likely dramatically underestimated as point out experts, because of given flaws in the current data collection process and massive discrepancies with the much larger number of self-reported incidents. The real number of hate crimes over the states could be much more important.
 
 Finally, we collected data on LGBT+ population over the states to see where it is the most important.
 
 ![Alt text](./assets/img/output_68_0.jpg?raw=true "Title")
 
-
+This graphs reveals a very interesting element: District of Columbia has the highest LGBT+ density and is also the State with the highest number of hate crime related to sexual orientation. We would expect that where the LGBT+ community is the most present, it would be in very progressive states and that the hate crimes would not be so important. But the graphs show the opposite. This might be due to very conservative and homophobic movement in reaction of this "high" density of LGBT+ people. It is very alarming especially for D.C. 
 
 [Link to test map](https://meghanharrington.github.io/topic_2015.html)
 
