@@ -28,9 +28,9 @@ Same for **New York**, which is seen as a very **socially liberal** state. Same-
 
 For **Florida**, it is not a a very progressive state as same-sex sexual activity became legal after Supreme Court's decision on June 26, 2003. Nevertheless, there are laws to protect against LGBT discrimination. 
 
-In opposition, **Texas** has always been a very **conservative state** and LGBT people face legal and social challenges and discriminations. There is no statewide law banning anti-LGBT discrimination. Neverthelees, same-sex marriage is legal since 2015 as it became mandatory in the U.S.
+In opposition, **Texas** has always been a very **conservative state** and LGBT people face legal and social challenges and discriminations. There is no statewide law banning anti-LGBT discrimination. Neverthelees, same-sex marriage is legal since 2015 as it became mandatory in the U.S. We will see how the political party impact the number of quotations for a state and what ideas are related in the statements.
 
-Now let's see the repartition of **democrats/republicans** speakers:
+First, let's see the repartition of **democrats/republicans** speakers:
 
 ![Alt text](proportion_d_r.png?raw=true "Title")
 
