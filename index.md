@@ -57,10 +57,14 @@ As expected, **males represent almost 75% of the speakers**. We can see a small 
 Therefore, it is interesting to note that a **majority of the quotes** are from **male speakers**. It really shows that LGBT+ people are still not as represented as they should, even on the topics of their own rights.
 
 And last but not least, **religion is often evoked** when talking about LGBT+ rights and acceptance. We wanted to have a look at the distribution of religion related to quotes. 
+
 ![Alt text](religion.png?raw=true "Title")
 
-**Catholics** represent **13%** of the U.S population, **baptists 15%**, **atheists about 4%** and **jewish 2%** whereas **muslims are 1.1%**. Therefore the distribution is quite logical and follows the order of porportion, except for baptists who tend to talk less about it than other religions.
+**Catholics** represent **13%** of the U.S population, **baptists 15%**, **atheists about 4%** and **jewish 2%** whereas **muslims are 1.1%**. As we can see the catholic community speak out a lot about the gay rights and there satements tend to protest the extension of there rights.
 
+As we have seen, many different people with different opinions talk about the LGBT+ rights but what is sure so far is that powerful white mens dominates the statements and the LGBT+ community itself is largely under represented. We have to look at what the quotes say for a deeper analysis of the related ideas.
+
+# Sentiment analysis
 
 # What are they saying ?
 
