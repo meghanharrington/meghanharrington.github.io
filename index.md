@@ -152,6 +152,3 @@ In conclusion, there has been an unquestionable **liberation of speech** these l
 
 **We have got to keep fighting!**
 
-[Link to test map](https://meghanharrington.github.io/topic_2015.html)
-
-
