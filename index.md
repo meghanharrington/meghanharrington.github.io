@@ -99,7 +99,7 @@ The topic modelling from 2015 reveals that **marriage** is a topic that was very
 
 Let's see how the topics evolved in 2019.
 
-![Alt text](topic_2019.png?raw=true "Title")
+![Alt text](topic_2019_1.png?raw=true "Title")
 
 In 2019, a topic stands out which contains the words **child, parent, and sexuality**. It is a really interesting bag of words as it points out various subjects that emerged through the years. After the legalization of marriage, a key subject was **child adoption.** Until 2017, laws related to LGBTQ+ couples adopting children varied by state. Some states granted full adoption rights to same-sex couples, while others banned same-sex adoption or only allowed one partner in a same-sex relationship to adopt the biological child of the other. But, **on June 26, 2017, the U.S Supreme Court made adoption by same-sex couples legal in all 50 states.** Attitudes toward same-sex parenting have improved as the number of same-sex couples and same-sex parenting overall has increased in the U.S.
 
