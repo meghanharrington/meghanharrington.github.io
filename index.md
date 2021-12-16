@@ -148,7 +148,7 @@ However, it can still evolve in one direction or another. **Conservative movemen
 
 Regarding the **hate crimes**, it confirms that LGBT+ community is not fully accepted and suffers from very **violent assaults and discriminations**. The **protection** of the community needs to be reformed as it is **inexistent** in some states. 
 
-In conclusion, there has been an unquestionable **liberation of speech** these last few years that have allowed more voices to be heard. We may think this imply major improvements in gay rights and acceptance but there is still a lot of work to do to rich **equality**. 
+In conclusion, there has been an unquestionable **liberation of speech** these last few years that have allowed more voices to be heard. We may think this imply major improvements in gay rights and acceptance but there is still a lot of work to do to reach **equality**. 
 
 **We have got to keep fighting!**
 
