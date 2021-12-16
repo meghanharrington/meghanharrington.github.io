@@ -80,7 +80,7 @@ Over all our datas, we modelled the different topics discussed in all the quotes
 
 - For the **purple** topic, it concerns **same sex couples having children** with the words: **'child', 'parent', 'marriage', 'couple', 'political'.** As we have seen before, it has been a difficult fight in order to obtain the legal right to adopt for same-sex couples in 2017.
 
-- In **pink**, it is concentrated around **politics** with words like **'vote', 'candidate', 'right'.** A right is never earned and it is important to stay vigilant as new movement or government can be threatening to LGBT+ rights or even more largely, to any minorities rights. The election of Trump in 2016 demonstrates it. Therefore, voting and electing tolerant candidate is crucial especially for this community.
+- In **pink**, it is concentrated around **politics** with words like **'vote', 'candidate', 'right'.** A right is never earned and it is important to stay vigilant as new movement or government can be threatening to LGBT+ rights or even more largely, to any minority rights. The election of Trump in 2016 demonstrates it. Therefore, voting and electing tolerant candidate is crucial especially for this community.
 
 - The **brown** topic is about **love** with words like **'feel', 'love', 'people'.** It's all about love at the beginning!
 
