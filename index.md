@@ -36,13 +36,19 @@ In opposition, **Texas** has always been a very **conservative state** and LGBTQ
 
 First, let's see the partition of **Democrat/Republican** speakers:
 
-![Alt text](proportion_d_r.png?raw=true "Title")
+<p align="center">
+<img src="proportion_d_r.png"  />
+  </p>
+
 
 **Democrats**, who tend to support LGBTQ+ rights, talk more on the subject than **Republicans.** 
 
 But politicians are not the only part of the debate. Indeed, lots of other personalities speak on gay rights. Let's look at their different occupations:
 
-![Alt text](occupations.png?raw=true "Title")
+<p align="center">
+<img src="occupations.png"  />
+  </p>
+
 
 As we can see, **actors** play a very important role, the politicians are quite far behind! One might find it surprising that **politicians represent 9.1%** while **actors represent 23.3%**. Politicians are the ones who can apply laws and create change, in both directions, depending on the opinion. But at the same time, actors have lots of **influence** because of their exposition and are often quoted in the media in case of a **coming out** or an opinion. Also, they often play the role of an LGBTQ+ person. 
 
