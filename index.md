@@ -15,7 +15,7 @@ In our data story, we are going to focus on the evolution of opinions regarding 
 
 
 # Who talks about it ?
-As it is a societal topic, lots of different persons talk about it. Let's see what **politicians** say about it. First, let see the distribution of politicians (senators+ congress-man/woman) in each state.
+As it is a societal topic, lots of different persons talk about it. Let's see what **politicians** say about it. First, let see the distribution of senators in each state.
 
 ![Alt text](distrib_pol.png?raw=true "Title")
 
@@ -76,7 +76,7 @@ Over all our datas, we modelled the different topics discussed in all the quotes
 
 - The first one, in **blue**, represents the different sort of **discrimination: race, gender and sexual orientation discrimination.** The term **'pay'** comes up, as lots of studies have shown that there is a gap between men and women salary, as well as between black people and white people, and also between gay and heterosexual people. A study has shown that the gender gap is also present between gay people:  according to the Williams Institute, **women in same-sex couples have a median personal income of $38,000** compared to **$47,000 for men in same-sex couples**. Indeed, the different sort of discriminations tend to cross over, it is called **intersectionality.** It explains why the other kind of discrimination are also present in our data as it is all very linked together.
 
-- The **red**topic is centred on **diversity in schools**. There have been lots of stories of LGBT+ teenagers that **don't feel safe or accepted in their schools.** For example, some transgender students are still called by their teacher by their dead names of wrong pronouns. It has brought up the debate of tolerance and acceptance in schools and universities. 
+- The **red** topic is centred on **diversity in schools**. There have been lots of stories of LGBT+ teenagers that **don't feel safe or accepted in their schools.** For example, some transgender students are still called by their teacher by their dead names of wrong pronouns. It has brought up the debate of tolerance and acceptance in schools and universities. 
 
 - For the **purple** topic, it concerns **same sex couples having children** with the words: **'child', 'parent', 'marriage', 'couple', 'political'.** As we have seen before, it has been a difficult fight in order to obtain the legal right to adopt for same-sex couples in 2017.
 
