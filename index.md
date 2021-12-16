@@ -140,6 +140,20 @@ Finally, we collected data on LGBT+ population over the states to see where it i
 
 This graphs reveals a very interesting element: District of Columbia has the highest LGBT+ density and is also the State with the highest number of hate crime related to sexual orientation. We would expect that where the LGBT+ community is the most present, it would be in very progressive states and that the hate crimes would not be so important. But the graphs show the opposite. This might be due to very conservative and homophobic movement in reaction of this "high" density of LGBT+ people. It is very alarming especially for D.C. 
 
+
+
+# Conclusion
+
+From our analysis, we have seen that there are lots of different actors on the LGBT+ rights topic. First of all, people who talk the most about it are not the persons concerned but rather the dominant classes. Politicians are major speakers as they make laws in order to extend or reduce the rights of this community. But, as it is a societal matter, public opinion is a key component of the debate. Where politicians tend to stand in retreat and be less committed, activist and actors take strong positions. We know that culture, through movies, books, or TV shows allow Americans to open their mind and accept each other. Indeed, sentiment analysis revealed that Americans quotes are getting slightly more positive over the years. 
+
+However, it can still evolve in one direction or another. Conservative movements have lots of power in America. Some progressive laws have already been cancelled in the past, as we have seen it with gay marriage in several states. 
+
+Regarding the hate crimes, it confirms that LGBT+ community is not fully accepted and suffers from very violent assaults and discriminations. The protection of the community needs to be reformed as it is inexistent in some states. 
+
+In conclusion, there has been an unquestionable liberation of speech these last few years that have allowed more voices to be heard. We may think this imply major improvements in gay rights and acceptance but there is still a lot of work to do to rich equality. 
+
+We have got to keep fighting!
+
 [Link to test map](https://meghanharrington.github.io/topic_2015.html)
 
 
