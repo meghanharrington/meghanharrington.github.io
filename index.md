@@ -109,7 +109,7 @@ To conclude, what really made the difference for the evolution of gay rights was
 # Sentiment Analysis
 From what we have seen so far, it is obvious that we are speaking more about the LGBTQ+ topic today than in 2015. In fact, the number of quotations on Quotebank related to the topic went from **844 in 2015** to **73088 in 2019** which means **multiplying the speeches about the gay rights by 86**, but does it necessarily mean the **LGBTQ+ community is more accepted?**
 
-![Alt text](good_proportion.png?raw=true "Title")
+![Alt text](proppnn.png?raw=true "Title")
 
 The sentiment analysis we performed revealed that the proportion of positive, negative, and neutral sentences remained pretty constant these last few years with a positive sentence proportion that takes over the negative and neutral sentences although the **negative sentences remain very high**. This analysis doesn’t show major improvements in the quotes sentiment which is **worrying.**
 
