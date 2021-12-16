@@ -108,14 +108,16 @@ To conclude, what really made the difference for the evolution of gay rights was
 # Sentiment Analysis
 From what we have seen so far, it is obvious that we talk more about the LGBTQ+ topic today than in 2015. In fact, the number of quotations on Quotebank related to the topic went from 844 in 2015 to 73088 in 2019 which means **multiplying the speeches about the gay rights by 86**, but does it necessarily mean the **LGBT community is more accepted?**
 
+The sentiment analysis we performed revealed that in the proportion of positive, negative, and neutral sentences remained pretty constant these last few years with a positive sentence proportion that takes over the negative and neutral sentences although the negative sentences remain very high. This analysis doesn’t show major improvements in the quotes sentiment which is worrying concerning the gay rights.
 
-
-
-
+However, we can distinguish the politicians’ statements from the overall population of the US.
 
 ![Alt text](mean_score_pol_people.png?raw=true "Title")
+Indeed, in the politicians' statements we notice an increasing proportion of positive sentences from 2015 to 2018, then this proportion started to decrease in contrast to the negative proportion that is dangerously increasing and it is still the case today. 
 
-It shows that the **Americans tend to have slightly increased the positive sentiment** of their quotations from 2015 to 2020 and in the same pattern, slighlty **decreased the negative sentiment** with nevertheless a peak in 2016 (might have a link with Trump's election). For **politicians,** the tendency is quite opposite, with **minor decrease in positivity** and **minor increase in negative sentiment**. 
+On the other hand we can observe the American proportion of positive sentences is increasing and taking over the negative proportion that decreases.
+
+One more time we can see that **progress is unstable**, nothing is certain, getting rights is a constant fight and laws can go backwards anytime.
 
 
 # Acceptance over the States 
