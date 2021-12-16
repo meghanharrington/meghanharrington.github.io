@@ -72,7 +72,7 @@ As we have seen, many different people with different opinions talk about the LG
 
 ![Alt text](wordbubbles.png?raw=true "Title")
 
-Over all our datas, we modelled the different topics discussed in all the quotes to see what are **the major concerns and debate around the LGBT+ community.** This analysis revealed **7 distinct topics**.
+Over all our data, we modelled the different topics discussed in all the quotes to see what are **the major concerns and debats around the LGBT+ community.** This analysis revealed **7 distinct topics**.
 
 - The first one, in **blue**, represents the different sort of **discrimination: race, gender and sexual orientation discrimination.** The term **'pay'** comes up, as lots of studies have shown that there is a gap between men and women salary, as well as between black people and white people, and also between gay and heterosexual people. A study has shown that the gender gap is also present between gay people:  according to the Williams Institute, **women in same-sex couples have a median personal income of $38,000** compared to **$47,000 for men in same-sex couples**. Indeed, the different sort of discriminations tend to cross over, it is called **intersectionality.** It explains why the other kind of discrimination are also present in our data as it is all very linked together.
 
