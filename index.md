@@ -112,7 +112,7 @@ The sentiment analysis we performed revealed that the proportion of positive, ne
 We can distinguish the politicians’ statements from the overall population of the US.
 
 <p align="center">
-![Alt text](mean_score_pol_people.png?raw=true "Title")
+  <img src="mean_score_pol_people.png"  />
   </p>
   
 Indeed, looking at the **politicians** statements we notice an **increasing proportion of positive sentences from 2015 to 2018**, then this proportion started to decrease in contrast to the **negative proportion that is dangerously increasing** still today. 
