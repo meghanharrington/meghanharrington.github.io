@@ -17,7 +17,7 @@ In our data story, we are going to focus on the evolution of opinions regarding 
 # Who talks about it ?
 As it is a societal topic, lots of different persons talk about it. Let's see what **politicians** say about it. First, let see the distribution of senators in each state.
 
-![Alt text](distrib_speakers_2015.png?raw=true "Title")
+![Alt text](distrib_pol.png?raw=true "Title")
 
 We will focus on the 4 major States and see how it evolves from 2015 to 2019.
 
