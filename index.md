@@ -124,8 +124,8 @@ As we have seen so far, U.S have voted some important laws toward equality for L
 
 First, let's see how the distribution of hate crimes due to sexual orientation in all the states has evolved in 2015 and 2019.
 
-![Alt text](./assets/img/output_50_0.png?raw=true "Title")
-![Alt text](./assets/img/output_56_0.png?raw=true "Title")
+![Alt text](hc_2015.png?raw=true "Title")
+![Alt text](hc_2019.png?raw=true "Title")
 
 
 Most of the states have very small values with less then 100 cases. But some states stand out with high peaks. In California, for example, it went from around 550 to almost 700 cases. Same for Washington, with around 200 in 2015 and almost 300 in 2019. In Texas as well, with an augmentation of almost 100 cases.
