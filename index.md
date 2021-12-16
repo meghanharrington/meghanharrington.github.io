@@ -113,8 +113,8 @@ The sentiment analysis we performed revealed that in the proportion of positive,
 However, we can distinguish the politicians’ statements from the overall population of the US.
 
 ![Alt text](mean_score_pol_people.png?raw=true "Title")
-Indeed, in the politicians' statements we notice an increasing proportion of positive sentences from 2015 to 2018, then this proportion started to decrease in contrast to the negative proportion that is dangerously increasing and it is still the case today. 
 
+Indeed, in the politicians' statements we notice an increasing proportion of positive sentences from 2015 to 2018, then this proportion started to decrease in contrast to the negative proportion that is dangerously increasing still today. 
 On the other hand we can observe the American proportion of positive sentences is increasing and taking over the negative proportion that decreases.
 
 One more time we can see that **progress is unstable**, nothing is certain, getting rights is a constant fight and laws can go backwards anytime.
