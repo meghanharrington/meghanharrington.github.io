@@ -124,16 +124,14 @@ As we have seen so far, U.S have voted some important laws toward equality for L
 
 First, let's see how the distribution of hate crimes due to sexual orientation in all the states has evolved in 2015 and 2019.
 
-![Alt text](hc_2015.png?raw=true "Title")
-![Alt text](hc_2019.png?raw=true "Title")
+![Alt text](distrib_hc.png?raw=true "Title")
 
-
-Most of the states have very small values with less then 100 cases. But some states stand out with high peaks. In California, for example, it went from around 550 to almost 700 cases. Same for Washington, with around 200 in 2015 and almost 300 in 2019. In Texas as well, with an augmentation of almost 100 cases.
+Most of the states have very small pourcentage (with respect to their population size) with less then 0.002% of cases. But some states stand out with high peaks. Especially in the Distric of Columbia which have tremendously high numbers. From 2015 to 2019 it doubled in proportion, going from 0.012% to more then 0.025%. Washington, Vermont and Massachussets are almost at 0.005%, 
 Overall, the number of assaults has increased from 2015 to 2019. 
 
 Moreover, we collected our data from the FBI website but it is likely dramatically underestimated as point out experts, because of given flaws in the current data collection process and massive discrepancies with the much larger number of self-reported incidents.
 
-Finally, we collected data on LGBTQIA+ population over the states to see where it is the most important.
+Finally, we collected data on LGBT+ population over the states to see where it is the most important.
 
 ![Alt text](./assets/img/output_68_0.jpg?raw=true "Title")
 
