@@ -110,7 +110,7 @@ From what we have seen so far, it is obvious that we talk more about the LGBTQ+ 
 
 ![Alt text](good_proportion.png?raw=true "Title")
 
-The sentiment analysis we performed revealed that in the proportion of positive, negative, and neutral sentences remained pretty constant these last few years with a positive sentence proportion that takes over the negative and neutral sentences although the negative sentences remain very high. This analysis doesn’t show major improvements in the quotes sentiment which is worrying concerning the gay rights.
+The sentiment analysis we performed revealed that in the proportion of positive, negative, and neutral sentences remained pretty constant these last few years with a positive sentence proportion that takes over the negative and neutral sentences although the **negative sentences remain very high**. This analysis doesn’t show major improvements in the quotes sentiment which is **worrying about the gay rights.**
 
 However, we can distinguish the politicians’ statements from the overall population of the US.
 
