@@ -30,7 +30,7 @@ As we can see **California, New York, Florida and Texas** are the major states w
 
 Same for **New York**, which is seen as a very **socially liberal** state. Same-sex sexual activity has been legal since **1980**. Same-sex marriage has been legal statewide since 2011. In addition, both conversion therapy on minors and the gay and trans panic defense have been banned since 2019. Also, New York City is now seen as **one of the most LGBT-friendly cities in the U.S.**
 
-For **Florida**, it is not a a very progressive state as same-sex sexual activity became legal after Supreme Court's decision on June 26, 2003. Nevertheless, there are laws to protect against LGBT discrimination. 
+For **Florida**, it is not a very progressive state as same-sex sexual activity became legal after Supreme Court's decision on June 26, 2003. Nevertheless, there are laws to protect against LGBT discrimination. 
 
 In opposition, **Texas** has always been a very **conservative state** and LGBT people face legal and social challenges and discriminations. There is no statewide law banning anti-LGBT discrimination. Neverthelees, same-sex marriage is legal since 2015 as it became mandatory in the U.S. We will see how the political party impact the number of quotations for a state and what ideas are related in the statements.
 
@@ -44,7 +44,7 @@ But politicians are not the major part of the debat. Indeed, lots of other perso
 
 ![Alt text](occupations.png?raw=true "Title")
 
-As we can see **actors** play a very important role, the politicians are quite far behind! One could find surprising that **politicians represent 9.1%** while **actors represent 23.3%**. Politicians are the ones who can apply laws and create change, in both directions, depending on the opinion. But at the same time, actors have lots of **influence** beacause of there exposition and are often quoted in the media in case of a **coming out** or an opinion. Also, they often play the role of a LGBT+ person. 
+As we can see **actors** play a very important role, the politicians are quite far behind! One could find surprising that **politicians represent 9.1%** while **actors represent 23.3%**. Politicians are the ones who can apply laws and create change, in both directions, depending on the opinion. But at the same time, actors have lots of **influence** because of their exposition and are often quoted in the media in case of a **coming out** or an opinion. Also, they often play the role of a LGBT+ person. 
 
 Finally, when analyzing the coverage of a minority's rights, it is interesting to look at the **gender of the speakers** as in the U.S, **white males are often over-represented** and tend to have more spaces and time to express their opinions whereas other minorities, even the concerned ones are less heard. Let's see if it the case here:
 
