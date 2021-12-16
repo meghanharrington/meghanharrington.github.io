@@ -124,6 +124,10 @@ We can distinguish the politicians’ statements from the overall population of 
 Indeed, looking at the **politicians** statements we notice an **increasing proportion of positive sentences from 2015 to 2018**, then this proportion started to decrease in contrast to the **negative proportion that is dangerously increasing** still today. 
 On the other hand we can observe the proportion of **positive sentences in Americans** statements is **increasing** and taking over the negative proportion that decreases.
 
+### Are these results significant?
+Due to the distribution of the data, it is difficult to perform a hypothesis test in order to conclude whether these differences in sentiments are statistically significant. The Wilcoxon rank-sum test can give us an idea of how to interpret the evolution of sentiments for each group. It is a nonparametric test of the null hypothesis that for randomly selected values X and Y from two populations, the probability of X being greater than Y is equal to the probability of Y being greater than X. 
+First of all, we performed the test on the compound sentiment scores for politicians, comparing 2015 and 2020. This gave a p-value of 0.051539. Then, we looked at the compound sentiment scores for all Americans, comparing 2015 and 2020. This gave a p-value of 0.00055. From these results, we can conclude that there is a statistcally significant change in sentiment from 2015 to 2020 when looking at quotes about gay rights from all Americans. However, the change in sentiment for politicians is not so clear-cut.
+
 One more time we can see that **progress is unstable**, nothing is certain, getting rights is a constant fight and laws can go backwards at any time.
 
 
