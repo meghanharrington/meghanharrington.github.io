@@ -70,7 +70,8 @@ As we have seen, many different people with different opinions talk about the LG
 
 # What are they saying ?
 
-![Alt text](wordbubbles.png?raw=true "Title")
+![Alt text](wordbubble_1.png?raw=true "Title")
+![Alt text](wordbubble_2.png?raw=true "Title")
 
 Over all our data, we modelled the different topics discussed in all the quotes to see what are **the major concerns and debats around the LGBT+ community.** This analysis revealed **7 distinct topics**.
 
