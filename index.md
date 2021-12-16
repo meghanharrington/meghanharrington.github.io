@@ -68,6 +68,26 @@ As we have seen, many different people with different opinions talk about the LG
 
 # What are they saying ?
 
+![Alt text](wordbubbles.png?raw=true "Title")
+
+Over all our datas, we modelled the different topics discussed in all the quotes to see what are **the major concerns and debate around the LGBT+ community.** This analysis revealed **7 distinct topics. **
+
+- The first one, in **blue**, represents the different sort of **discrimination: race, gender and sexual orientation discrimination.** The term **'pay'** comes up, as lots of studies have shown that there is a gap between men and women salary, as well as between black people and white people, and also between gay and heterosexual people. A study has shown that the gender gap is also present between gay people:  according to the Williams Institute, **women in same-sex couples have a median personal income of $38,000** compared to **$47,000 for men in same-sex couples**. Indeed, the different sort of discriminations tend to cross over, it is called **intersectionality.** It explains why the other kind of discrimination are also present in our data as it is all very linked together.
+
+- The **red**topic is centred on **diversity in schools**. There have been lots of stories of LGBT+ teenagers that **don't feel safe or accepted in their schools.** For example, some transgender students are still called by their teacher by their dead names of wrong pronouns. It has brought up the debate of tolerance and acceptance in schools and universities. 
+
+- For the **purple** topic, it concerns **same sex couples having children** with the words: **'child', 'parent', 'marriage', 'couple', 'political'.** As we have seen before, it has been a difficult fight in order to obtain the legal right to adopt for same-sex couples in 2017.
+
+- In **pink**, it is concentrated around **politics** with words like **'vote', 'candidate', 'right'.** A right is never earned and it is important to stay vigilant as new movement or government can be threatening to LGBT+ rights or even more largely, to any minorities rights. The election of Trump in 2016 demonstrates it. Therefore, voting and electing tolerant candidate is crucial especially for this community.
+
+- The **brown** topic is about **love** with words like **'feel', 'love', 'people'.** It's all about love at the beginning!
+
+- The **yellow** topic has words like **'equality', 'community', 'history' or 'recognize'.** It demonstrates the willingness to **recognize and acknowledge the history of LGBT+ movement for liberation and equality.** 
+
+- The **green** one is focused on **family, religion and acceptance**, with words **'church', 'family', 'leave', 'home'**. **Coming out** can be a very complicated moment as some families don't accept it, often under cover of **religion** and LGBT+ people sometimes are forced to leave their home. It is a terrible statement that **640 thousands of LGBT+ youth are homeless.**
+
+Now let's look at the **evolution** of the topics **from 2015 to 2019**
+
 ![Alt text](topic_2015_2.png?raw=true "Title")
 
 The topic modelling from 2015 reveals that **marriage** is a topic that was very frequent. It was associated with **right, discrimination, equality.** Indeed, the **gay marriage was legalized in the 50 states on June 26, 2015 ruled by the Supreme Court.** The matter has been the focus of speculation for month. **Barack Obama**, president at the time,  praised the Supreme Court's ruling. Before this decision, it has been a very stormy debate with multiple states that banned it but also several states that legalized it and then re-banned it few years later. Even Barack Obama did not have a very clear position on it and had several declaration in both directions. What really made the difference was not solely the work of the lawyers and plaintiffs who brought the case but really the **decades of activism** that made the idea of gay marriage seem right. This demonstrates **the impact Americans had on the evolution of the law**. It is therefore very interesting to look at statements from all Americans. We performed a sentimental analysis of their statements and compared it with politicians. 
@@ -85,7 +105,7 @@ In 2019, a topic sorts out which contains the words **child, parent, and sexuali
 There have also been lots of debate with the increasing number of **film or TV shows involving LGBTQIA+ people** in it. If it is seen as a major progress to acceptance and more representations, some conservative movement claim that it is not appropriate for children especially. In 2019, major LGBTQIA+ movies came out, such as BPM (beats per minutes) or Call me by your name. 
 
 
-# ACCEPTANCE
+# Acceptance over the states 
 
 As we have seen so far, U.S have voted some important laws toward equality for LGBTQIA+, with the gay marriage and child adoption. Nevertheless, the community still faces lots and various form of discriminations and violence all over the states. We wanted to have a look and compare each state to see where it is the most accepted and equally-treated and where it is the worst.
 
