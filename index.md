@@ -17,12 +17,16 @@ In our data story, we are going to focus on the evolution of opinions regarding 
 # Who talks about it ?
 As it is a societal topic, lots of different persons talk about it. Let's see what **politicians** say about it. First, let see the distribution of senators in each state.
 
+![Alt text](distrib_speakers_2015.png?raw=true "Title")
+
+We will focus on the 4 major States and see how it evolves from 2015 to 2019.
+
 
 2015                                              | 2019
 :------------------------------------------------:|:-------------------------------------------------:
 ![Alt text](top_states_2015.png?raw=true "Title") | ![Alt text](top_states_2019.png?raw=true "Title")
 
-As we can see **California, Vermont, Florida and Texas** are the major states who talk about it. For **California** it is not surprising as it is considered as a very **liberal state** in regard to **LGBT+ rights**. Discrimination protections regarding sexual orientation and gender identity were adopted in **2003**. It is also the first state in the U.S. to **legalize domestic partnerships between same-sex couples in 1999**. Same-sex adoption has also been legal statewide since 2003, permitting stepchild adoption and joint adoption between same-sex couples. 
+As we can see **California, New York, Florida and Texas** are the major states who talk about it. For **California** it is not surprising as it is considered as a very **liberal state** in regard to **LGBT+ rights**. Discrimination protections regarding sexual orientation and gender identity were adopted in **2003**. It is also the first state in the U.S. to **legalize domestic partnerships between same-sex couples in 1999**. Same-sex adoption has also been legal statewide since 2003, permitting stepchild adoption and joint adoption between same-sex couples. 
 
 Same for **New York**, which is seen as a very **socially liberal** state. Same-sex sexual activity has been legal since **1980**. Same-sex marriage has been legal statewide since 2011. In addition, both conversion therapy on minors and the gay and trans panic defense have been banned since 2019. Also, New York City is now seen as **one of the most LGBT-friendly cities in the U.S.**
 
@@ -43,8 +47,6 @@ But politicians are not the major part of the debat. Indeed, lots of other perso
 As we can see **actors** play a very important role, the politicians are quite far behind! One could find surprising that **politicians represent 9.1%** while **actors represent 23.3%**. Politicians are the ones who can apply laws and create change, in both directions, depending on the opinion. But at the same time, actors have lots of **influence** beacause of there exposition and are often quoted in the media in case of a **coming out** or an opinion. Also, they often play the role of a LGBT+ person. 
 
 Finally, when analyzing the coverage of a minority's rights, it is interesting to look at the **gender of the speakers** as in the U.S, **white males are often over-represented** and tend to have more spaces and time to express their opinions whereas other minorities, even the concerned ones are less heard. Let's see if it the case here:
-
-![Alt text](gender_all_log.png?raw=true "Title")
 
 2015                                                | 2019
 :--------------------------------------------------:|:---------------------------------------------------:
