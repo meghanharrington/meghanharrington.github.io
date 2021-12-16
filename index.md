@@ -70,7 +70,8 @@ As we have seen, many different people with different opinions talk about the LG
 
 # What are they saying ?
 
-<img src="wordbubble_1.png" alt="drawing" width="1000"/>
+<img src="wordbubble3.png" alt="drawing" width="750"/>
+<img src="wordbubblered.png" alt="drawing" width="250"/>
 <img src="wordbubble_2.png" alt="drawing" width="750"/>
 
 
