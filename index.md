@@ -54,12 +54,13 @@ As we can see, **actors** play a very important role, the politicians are quite 
 
 Finally, when analyzing the coverage of a minority's rights, it is interesting to look at the **gender of the speakers** as in the U.S, **white males are often over-represented** and tend to have more space and time to express their opinions, whereas other minorities, including the concerned ones, are less heard. Let's see if it the case here:
 
-2015                                                                          | 2019
-:----------------------------------------------------------------------------:|:--------------------------------------------------------------------------:
-![Alt text](gender_2015.png?raw=true "Title")                                 |  ![Alt text](gender_2019.png?raw=true "Title")
-![Alt text](other_gender_2015.png?raw=true "Title")                           |![Alt text](other_gender_2019.png?raw=true "Title")
-
-
+<p align="center">
+<img src="genderbar.png"  />
+  </p>
+  
+  <p align="center">
+<img src="mingenderbar.png"  />
+  </p>
 
 As expected, **males represent almost 75% of the speakers**. We can see a small increase of women speakers between 2015 and 2019. The distribution without male and women represented allows us to visualize minorities that are otherwise completely overshadowed by men and women. On this new scale, transgender female are very present as well as non-binary people. 
 It is interesting to note that a **majority of the quotes** are from **male speakers**. It really shows that LGBTQ+ people are still not as represented as they should be, even on the topics of their own rights.
