@@ -13,7 +13,15 @@ This liberation of speech has led to very positive outcomes, encouraging a gener
 
 In our data story, we are going to focus on who is speaking about the **LGBTQ+ community**, the evolution of opinions on the subject, and what differences we can see across states in the USA, with a special attention to politicians' statements.   
 
+## Index
+1. [Who is speaking about it?] (#who)
+2. [What are they saying?] (#what)
+3. [Sentiment Analysis] (#sent)
+4. [Acceptance across the States] (#states)
+5. [Conclusion] (#conc)
 
+
+<a name = "who"></a>
 # Who is speaking about it ?
 As it is a societal topic, many different people talk about it. As we are most interested in **politicians**, let's see what they have to say about it. First, let's look at the distribution of politicians in each state.
 
@@ -71,7 +79,7 @@ As expected, **males represent almost 70% of the speakers**. We can see a small 
 As we have seen, many different people with different opinions talk about LGBTQ+ rights but what is sure so far is that men dominate the conversation and the LGBTQ+ community itself is largely under-represented. We have to look at the content of the quotes for a deeper analysis of the related ideas.
 
 
-
+<a name = "what"></a>
 # What are they saying ?
 
 <img src="wbfinal.png" alt="drawing" width="750"/>
@@ -109,7 +117,7 @@ There have also been lots of debates with the increasing number of **films or TV
 
 To conclude, what really made the difference for the evolution of gay rights was not solely the work of the lawyers and plaintiffs who brought the case but really the **decades of activism** that normalized the idea of gay marriage. This demonstrates **the impact Americans had on the evolution of the law**. It is therefore very interesting to look at statements from all Americans. We performed a sentiment analysis of their statements and compared it with politicians. 
 
-
+<a name = "sent"></a>
 # Sentiment Analysis
 From what we have seen so far, it is obvious that we are speaking more about the LGBTQ+ topic today than in 2015, but does it necessarily mean the **LGBTQ+ community is more accepted?**
 
@@ -135,7 +143,7 @@ First of all, we performed the test on the compound sentiment scores for politic
 
 One more time we can see that **progress is unstable**, nothing is certain, getting rights is a constant fight and laws can go backwards at any time.
 
-
+<a name = "states"></a>
 # Acceptance across the States 
 
 As we have seen so far, the U.S. has enacted some important laws toward **equality for LGBTQ+**, with the **gay marriage** and **child adoption** laws. Nevertheless, the community still faces various forms of **discriminations and violence** across the country. We wanted to have a look and compare each state to see where the LGBTQ+ community is most accepted.
@@ -154,6 +162,7 @@ Finally, we collected data on the LGBTQ+ population for each state to see where 
 
 This graph reveals a very interesting element: **District of Columbia** has the **highest LGBTQ+ density** and is also the state with the **highest number of hate crimes related to sexual orientation**. We would expect that where the LGBTQ+ community is the most present, it would be in very progressive states and that the hate crimes would not be so widespread. But the graphs show the opposite. This might be due to very **conservative and homophobic movements** in reaction to this "high" density of LGBTQ+ people. It is very alarming especially for D.C. 
 
+<a name = "conc"></a>
 # Conclusion
 
 From our analysis, we have seen that there are **lots of different speakers** on the **LGBTQ+ rights** topic. First of all, people who talk about it the most are not the people concerned but rather the **dominant classes**. **Politicians** are major speakers as they make laws in order to extend or reduce the rights of this community. But, as it is a **societal matter**, public opinion is a key component of the debate. Where politicians tend to stand in retreat and be less committed, **activist and actors** take **strong positions**. We know that **culture**, through **movies, books, or TV shows** allow Americans to **open their minds and accept each other.** Indeed, our sentiment analysis revealed that Americans' sentiments are getting slightly more positive over the years. 
@@ -165,4 +174,6 @@ Regarding the **hate crimes**, it confirms that the LGBTQ+ community is not full
 In conclusion, there has been an unquestionable **liberation of speech** these last few years that have allowed more voices to be heard. We may think that this implies major improvements in gay rights and acceptance but there is still a lot of work to do to reach **equality**. 
 
 **We have got to keep fighting!**
+
+# References
 
