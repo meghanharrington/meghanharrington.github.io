@@ -74,7 +74,7 @@ As expected, **males represent almost 70% of the speakers**. We can see a small 
 <img src="mingenderbar.png"  />
   </p>
 
- On this new scale, transgender female are very present as well as non-binary people. We see a notable increase in quotes from non-binary people from 2015 to 2020. This might suggest that the term 'non-binary' has become more normalized and more commonly used by journalists, or perhaps the actual population of people identifying as non-binary has grown. 
+ On this new scale, transgender females are very present as well as non-binary people. We see a notable increase in quotes from non-binary people from 2015 to 2020. This might suggest that the term 'non-binary' has become more normalized and more commonly used by journalists, or perhaps the actual population of people identifying as non-binary has grown. 
 
 As we have seen, many different people with different opinions talk about LGBTQ+ rights but what is sure so far is that men dominate the conversation and the LGBTQ+ community itself is largely under-represented. We have to look at the content of the quotes for a deeper analysis of the related ideas.
 
