@@ -179,32 +179,32 @@ In conclusion, there has been an unquestionable **liberation of speech** these l
 
 
 
-Hate Crimes in D.C. - D.C. Policy Center | <a href="www.dcpolicycenter.org"></a>
+Hate Crimes in D.C. | [D.C. Policy Center](www.dcpolicycenter.org)
 
-LGBT+ Rights and Peace in Colombia: The Paradox Between Law and Practice | www.wola.org
+LGBT+ Rights and Peace in Colombia: The Paradox Between Law and Practice [WOLA](www.wola.org)
 
-Colombia failing to stem murders of LGBT people | Reuters | www.reuters.com
+Colombia failing to stem murders of LGBT people [Reuters](www.reuters.com)
 
-How Gay Marriage Won in the U.S. Supreme Court - The Atlantic | www.theatlantic.com
+How Gay Marriage Won in the U.S. Supreme Court [The Atlantic](www.theatlantic.com)
 
-Equal pay is an LGBT issue - National LGBTQ Task Force | www.thetaskforce.org
+Equal pay is an LGBT issue | [National LGBTQ Task Force](www.thetaskforce.org)
 
-The Cost of Coming Out: LGBT Youth Homelessness | Lesley University | www.lesley.edu
+The Cost of Coming Out: LGBT Youth Homelessness | [Lesley University](www.lesley.edu)
 
-Anti-gay hate crimes on the rise, FBI says, and they likely undercount | www.eu.usatoday.com
+Anti-gay hate crimes on the rise, FBI says, and they likely undercount [USA Today](www.eu.usatoday.com)
 
-A Contentious Debate: Same-Sex Marriage in the U.S. | Pew Research Center | www.pewforum.org
+A Contentious Debate: Same-Sex Marriage in the U.S. | [Pew Research Center](www.pewforum.org)
 
-Mann-Whitney U Test | https://en.wikipedia.org/wiki/Mann%E2%80%93Whitney_U_test
+Mann-Whitney U Test | [Wikipedia](https://en.wikipedia.org/wiki/Mann%E2%80%93Whitney_U_test)
 
-U.S. Senate 1976-2020 Dataset | https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PEJ5QU
+U.S. Senate 1976-2020 Dataset | [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PEJ5QU)
 
-FBI Hate Crime Statistics | https://ucr.fbi.gov/hate-crime/2019/topic-pages/tables/table-13.xls/view
+FBI Hate Crime Statistics | [FBI.gov](https://ucr.fbi.gov/hate-crime/2019/topic-pages/tables/table-13.xls/view)
 
-LGBT Demographics | https://en.wikipedia.org/wiki/LGBT_demographics_of_the_United_States#2020s
+LGBT Demographics | [Wikipedia](https://en.wikipedia.org/wiki/LGBT_demographics_of_the_United_States#2020s)
 
-LGBT Population Data | https://williamsinstitute.law.ucla.edu/wp-content/uploads/LGBT-Adult-US-Pop-Jul-2020.pdf
+LGBT Population Data | [Williams Institute](https://williamsinstitute.law.ucla.edu/wp-content/uploads/LGBT-Adult-US-Pop-Jul-2020.pdf)
 
-Congress Datasets | https://everypolitician.org/united-states-of-america/house/download.html
+Congress Datasets | [Every Politician](https://everypolitician.org/united-states-of-america/house/download.html)
 
 <a href="#top">Back to top</a>
