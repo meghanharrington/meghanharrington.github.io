@@ -4,7 +4,6 @@ title: Evolution of opinions on LGBTQ+
 cover-img: ./assets/img/prideflag.jpg
 ---
 
-<a name = "top"></a>
 # Why this study?
 
 Over the last few years, we have seen the rise of many movements fighting for **civil rights**, whether it is **anti-racist**, **feminist** or in our case, for **gay rights**. Indeed, it seems that with the **liberation of speech** thanks to **social networks**, everyone can have a voice and not only journalists, politicians or personalities on TV shows, as used to be the case. Therefore, **minorities are finally getting heard,** but are they really becoming more accepted?
@@ -177,4 +176,4 @@ In conclusion, there has been an unquestionable **liberation of speech** these l
 
 # References
 
-[Back to top](#top)
+<a href="#top">Back to top</a>
