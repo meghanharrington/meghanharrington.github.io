@@ -60,14 +60,15 @@ Finally, when analyzing the coverage of a minority's rights, it is interesting t
 <img src="genderbar.png"  />
   </p>
   
+As expected, **males represent almost 70% of the speakers**. We can see a small increase of women speakers between 2015 and 2020. The distribution without males and females represented allows us to visualize minorities that are otherwise completely overshadowed.
+  
   <p align="center">
 <img src="mingenderbar.png"  />
   </p>
 
-As expected, **males represent almost 75% of the speakers**. We can see a small increase of women speakers between 2015 and 2019. The distribution without male and women represented allows us to visualize minorities that are otherwise completely overshadowed by men and women. On this new scale, transgender female are very present as well as non-binary people. 
-It is interesting to note that a **majority of the quotes** are from **male speakers**. It really shows that LGBTQ+ people are still not as represented as they should be, even on the topics of their own rights.
+ On this new scale, transgender female are very present as well as non-binary people. We see a notable increase in quotes from non-binary people from 2015 to 2020. This might suggest that the term 'non-binary' has become more normalized and more commonly used by journalists, or perhaps the actual population of people identifying as non-binary has grown. 
 
-As we have seen, many different people with different opinions talk about the LGBTQ+ rights but what is sure so far is that powerful men dominate the statements and the LGBTQ+ community itself is largely under-represented. We have to look at the content of the quotes for a deeper analysis of the related ideas.
+As we have seen, many different people with different opinions talk about LGBTQ+ rights but what is sure so far is that men dominate the conversation and the LGBTQ+ community itself is largely under-represented. We have to look at the content of the quotes for a deeper analysis of the related ideas.
 
 
 
@@ -76,27 +77,27 @@ As we have seen, many different people with different opinions talk about the LG
 <img src="wbfinal.png" alt="drawing" width="750"/>
 
 
-Over all our data, we modelled the different topics discussed in all the quotes to see what are **the major concerns and debates around the LGBTQ+ community.** In order to obtain these topics, we used an unsupervised topic modeling algorithm called Latent Dirichlet Allocation. Given a number of topics to detect, this algorithm provides us with collections of words that can be interpreted as topics. We found that the best results revealed **7 distinct topics**.
+Over all our data, we modelled the different topics discussed to examine **the major concerns and debates around the LGBTQ+ community.** In order to obtain these topics, we used an unsupervised topic modeling algorithm called Latent Dirichlet Allocation. Given a number of topics to detect, this algorithm provides us with collections of words that can be interpreted as topics. We found that the best results revealed **7 distinct topics**.
 
 - The first one, in **blue**, represents the different sorts of **discrimination: by race, gender and sexual orientation.** The term **'pay'** comes up, as lots of studies have shown that there is a gap between mens' and womens' salaries, as well as between black people and white people, and gay and heterosexual people. A study has shown that the gender pay gap is also present among gay people:  according to the Williams Institute, **women in same-sex couples have a median personal income of $38,000** compared to **$47,000 for men in same-sex couples**. Indeed, the different sorts of discrimination tend to cross over, it is called **intersectionality.** It explains why the other kinds of discriminations are also present in our data as it is all very linked together.
 
-- The **red** topic is centered on **diversity in schools**. There have been lots of stories of LGBTQ+ teenagers that **don't feel safe or accepted in their schools.** For example, some transgender students are still called by their teacher by their dead names or wrong pronouns. It has brought up the debate of tolerance and acceptance in schools and universities. 
+- The **red** topic is centered on **diversity in schools**. There have been lots of stories of LGBTQ+ teenagers that **don't feel safe or accepted in their schools.** For example, some teachers still call transgender students by their dead names or wrong pronouns. It has brought up the debate of tolerance and acceptance in schools and universities. 
 
 - For the **purple** topic, it concerns **same sex couples having children** with the words: **'child', 'parent', 'marriage', 'couple', 'political'.** As we have seen before, it has been a difficult fight in order to obtain the legal right to adopt for same-sex couples in 2017.
 
-- In **pink**, it is concentrated around **politics** with words like **'vote', 'candidate', 'right'.** A right is never earned and it is important to stay vigilant as new movements or governments can be threatening to LGBTQ+ rights or even more largely, to any minority rights. The election of Trump in 2016 demonstrates this. Therefore, voting and electing tolerant candidates is crucial especially for this community.
+- In **pink**, it is concentrated around **politics** with words like **'vote', 'candidate', 'right'.** A right is never earned and it is important to stay vigilant, as new movements or governments can be threatening to LGBTQ+ rights or even more largely, to any minority rights. The election of Trump in 2016 demonstrates this. Therefore, voting and electing tolerant candidates is crucial, especially for this community.
 
 - The **brown** topic is about **love** with words like **'feel', 'love', 'people'.** It's all about love at the beginning!
 
-- The **yellow** topic has words like **'equality', 'community', 'history' or 'recognize'.** It demonstrates the willingness to **recognize and acknowledge the history of LGBTQ+ movement for liberation and equality.** 
+- The **orange** topic has words like **'equality', 'community', 'history' or 'recognize'.** It demonstrates the willingness to **recognize and acknowledge the history of the LGBTQ+ movement for liberation and equality.** 
 
-- The **green** one is focused on **family, religion and acceptance**, with words **'church', 'family', 'leave', 'home'**. **Coming out** can be a very complicated moment as some families don't accept it, often under cover of **religion** and LGBTQ+ people are sometimes forced to leave their homes. It is a terrible but true statement that **640 thousands of LGBTQ+ youth are homeless.**
+- The **green** one is focused on **family, religion and acceptance**, with words **'church', 'family', 'leave', 'home'**. **Coming out** can be a very complicated moment as some families don't accept it, often under cover of **religion**, and LGBTQ+ people are sometimes forced to leave their homes. It is a terrible but true statement that **640 thousands of LGBTQ+ youth are homeless.**
 
-Now let's look at the **evolution** of the topics **from 2015 to 2019**
+Now let's look at the **evolution** of the topics **from 2015 to 2019**.
 
 ![Alt text](topic_2015_2.png?raw=true "Title")
 
-The topic modelling from 2015 reveals that **marriage** is a topic that was very frequent. It was associated with **right, discrimination, equality.** Indeed, the **gay marriage was legalized in the 50 states on June 26, 2015 ruled by the Supreme Court.** The matter was the focus of speculation for months. **Barack Obama**, president at the time,  praised the Supreme Court's ruling. Before this decision, there occurred a very stormy debate, with multiple states banning it, but also several states that legalized it and then re-banned it few years later. Even Barack Obama did not have a very clear position on it and made several declaration in both directions. 
+The topic modelling from 2015 reveals that **marriage** is a topic that was very frequent. It was associated with **right, discrimination, equality.** Indeed, the **gay marriage was legalized in the 50 states on June 26, 2015 ruled by the Supreme Court.** The matter was the focus of speculation for months. **Barack Obama**, president at the time,  praised the Supreme Court's ruling. Before this decision, there occurred a very stormy debate, with multiple states banning it, but also several states that legalized it and then re-banned it a few years later. Even Barack Obama did not have a very clear position on it and made several declarations in both directions. 
 
 Let's see how the topics evolved in 2019.
 
