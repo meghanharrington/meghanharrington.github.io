@@ -14,11 +14,11 @@ This liberation of speech has led to very positive outcomes, encouraging a gener
 In our data story, we are going to focus on who is speaking about the **LGBTQ+ community**, the evolution of opinions on the subject, and what differences we can see across states in the USA, with a special attention to politicians' statements.   
 
 ## Index
-1. [Who is speaking about it?] (#who)
-2. [What are they saying?] (#what)
-3. [Sentiment Analysis] (#sent)
-4. [Acceptance across the States] (#states)
-5. [Conclusion] (#conc)
+1. [Who is speaking about it?](#who)
+2. [What are they saying?](#what)
+3. [Sentiment Analysis](#sent)
+4. [Acceptance across the States](#states)
+5. [Conclusion](#conc)
 
 
 <a name = "who"></a>
