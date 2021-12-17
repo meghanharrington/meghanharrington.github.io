@@ -29,7 +29,7 @@ As it is a societal topic, many different people talk about it. As we are most i
 <img src="distrib_pol.png"  />
   </p>
 
-In order to get an accurate idea of which states' representatives were speaking the most about gay rights, we normalized the data with respect to the states' populations. The distributions were similar across all years, so here we can look at 2015 as an example.
+In order to get an accurate idea of which states' representatives were speaking the most about gay rights, we normalized the quotes from politicians about gay rights with respect to the states' populations. The distributions were similar across all years, so here we can look at 2015 as an example.
 
 
 <p align="center">
