@@ -176,14 +176,22 @@ In conclusion, there has been an unquestionable **liberation of speech** these l
 
 # References
 
+
 <a href="#top">Back to top</a>
 
-Hate Crimes in D.C. - D.C. Policy Center, www.dcpolicycenter.org
-LGBT+ Rights and Peace in Colombia: The Paradox Between Law and Practice, www.wola.org
-Colombia failing to stem murders of LGBT people | Reuters, www.reuters.com
-How Gay Marriage Won in the U.S. Supreme Court - The Atlantic, www.theatlantic.com
-Equal pay is an LGBT issue - National LGBTQ Task Force, www.thetaskforce.org
-The Cost of Coming Out: LGBT Youth Homelessness | Lesley University, www.lesley.edu
-Anti-gay hate crimes on the rise, FBI says, and they likely undercount, www.eu.usatoday.com
-A Contentious Debate: Same-Sex Marriage in the U.S. | Pew Research Center, www.pewforum.org
+Hate Crimes in D.C. - D.C. Policy Center | www.dcpolicycenter.org
+
+LGBT+ Rights and Peace in Colombia: The Paradox Between Law and Practice | www.wola.org
+
+Colombia failing to stem murders of LGBT people | Reuters | www.reuters.com
+
+How Gay Marriage Won in the U.S. Supreme Court - The Atlantic | www.theatlantic.com
+
+Equal pay is an LGBT issue - National LGBTQ Task Force | www.thetaskforce.org
+
+The Cost of Coming Out: LGBT Youth Homelessness | Lesley University | www.lesley.edu
+
+Anti-gay hate crimes on the rise, FBI says, and they likely undercount | www.eu.usatoday.com
+
+A Contentious Debate: Same-Sex Marriage in the U.S. | Pew Research Center | www.pewforum.org
 
