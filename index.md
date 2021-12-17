@@ -8,7 +8,7 @@ cover-img: ./assets/img/prideflag.jpg
 
 Over the last few years, we have seen the rise of many movements fighting for **civil rights**, whether it is **anti-racist**, **feminist** or in our case, for **gay rights**. Indeed, it seems that with the **liberation of speech** thanks to **social networks**, everyone can have a voice and not only journalists, politicians or personalities on TV shows, as used to be the case. Therefore, **minorities are finally getting heard,** but are they really becoming more accepted?
 
-This liberation of speech has led to very positive outcomes, encouraging a general open-mindedness on the matter of gay rights. On **June 26, 2015, the U.S Supreme Court legalized same-sex marriage in the fifty states,** what impact did it have on the American opinions?
+This liberation of speech has led to very positive outcomes, encouraging a general open-mindedness on the matter of gay rights. On **June 26, 2015, the U.S Supreme Court legalized same-sex marriage in the fifty states,** what impact did it have on Americans' opinions?
 
 In our data story, we are going to focus on who is speaking about the **LGBTQ+ community**, the evolution of opinions on the subject, and what differences we can see across states in the USA, with a special attention to politicians' statements.   
 
@@ -22,13 +22,13 @@ In our data story, we are going to focus on who is speaking about the **LGBTQ+ c
 
 <a name = "who"></a>
 # Who is speaking about it ?
-As it is a societal topic, many different people talk about it. As we are most interested in **politicians**, let's see what they have to say about it. First, let's look at the distribution of politicians in each state.
+As gay rights is a societal topic, many different types of people talk about it. As we are most interested in **politicians**, let's see what they have to say about it. First, let's look at the distribution of politicians in each state.
 
 <p align="center">
 <img src="distrib_pol.png"  />
   </p>
 
-In order to get an accurate idea of which states' representatives were speaking the most about gay rights, we normalized the quotes from politicians about gay rights with respect to the states' populations. The distributions were similar across all years, so here we can look at 2015 as an example.
+In order to get an accurate idea of which states' representatives are speaking the most about gay rights, we normalize the quotes from politicians about gay rights with respect to the states' populations. The distributions are similar across all years, so here we can look at 2015 as an example.
 
 
 <p align="center">
@@ -41,7 +41,7 @@ The same goes for **New York**, which is seen as a very **socially liberal** sta
 
 For **Florida**, it is not a very progressive state as same-sex sexual activity only became legal after the Supreme Court's decision on June 26, 2003. Nevertheless, there are laws to protect against LGBTQ+ discrimination. 
 
-In opposition, **Texas** has always been a very **conservative state** and LGBTQ+ people face legal and social challenges and discriminations. There is no statewide law banning anti-LGBTQ+ discrimination. Nevertheless, same-sex marriage is legal since 2015 under the federal law. Here we can see which political parties are more vocal on the topic. There are a roughly equal number of Democrats and Republicans in the Senate and Congress, so we can easily compare their contributions.
+In opposition, **Texas** has always been a very **conservative state** and LGBTQ+ people face legal and social challenges and discriminations. There is no statewide law banning anti-LGBTQ+ discrimination. Same-sex marriage is legal since 2015, but only as a result of the federal law. Here we can see which political parties are more vocal on the topic. There are a roughly equal number of Democrats and Republicans in the Senate and Congress, so we can easily compare their contributions.
 
 First, let's see the partition of **Democrat/Republican** speakers:
 
@@ -50,7 +50,7 @@ First, let's see the partition of **Democrat/Republican** speakers:
   </p>
 
 
-**Democrats**, who tend to support LGBTQ+ rights, talk more on the subject than **Republicans.** 
+**Democrats**, who tend to support LGBTQ+ rights, speak more on the subject than **Republicans.** 
 
 But politicians are not the only part of the debate. Indeed, lots of other personalities speak on gay rights. Let's look at their different occupations:
 
@@ -61,21 +61,21 @@ But politicians are not the only part of the debate. Indeed, lots of other perso
 
 As we can see, **actors** play a very important role, the politicians are quite far behind! One might find it surprising that **politicians represent 9.3%** while **actors represent 26.2%**. Politicians are the ones who can enact laws and create change, in both directions, depending on the opinion. But at the same time, actors have lots of **influence** because of their exposition and are often quoted in the media in case of a **coming out** or an opinion. Also, they often play the role of an LGBTQ+ person. 
 
-Finally, when analyzing the coverage of a minority's rights, it is interesting to look at the **gender of the speakers**, as in the U.S, **white males are often over-represented** and tend to have more space and time to express their opinions, whereas other minorities, including the concerned ones, are less heard. Let's see if it is the case here:
+Finally, when analyzing the coverage of a minority's rights, it is interesting to look at the **gender of the speakers**, as in the U.S, **white males are often over-represented** and tend to have more space and time to express their opinions, whereas other minorities, including the concerned ones, are less heard. 
 
 <p align="center">
 <img src="genderbar.png"  />
   </p>
   
-As expected, **males represent almost 70% of the speakers**. We can see a small increase of women speakers between 2015 and 2020. The distribution without males and females represented allows us to visualize minorities that are otherwise completely overshadowed.
+As expected, **males represent almost 70% of the speakers**. We can see a small increase in female speakers between 2015 and 2020. The distribution without males and females represented allows us to visualize minorities that are otherwise completely overshadowed.
   
   <p align="center">
 <img src="mingenderbar.png"  />
   </p>
 
- On this new scale, transgender females are very present as well as non-binary people. We see a notable increase in quotes from non-binary people from 2015 to 2020. This might suggest that the term 'non-binary' has become more normalized and more commonly used by journalists, or perhaps the actual population of people identifying as non-binary has grown. 
+ On this new scale, transgender females are very present as well as non-binary people. We see a notable increase in quotes from **non-binary** and **gender fluid** people from 2015 to 2020. This might suggest that the terms 'non-binary' and 'gender fluid' have become more normalized and more commonly used by journalists, or perhaps there has been a growth in the populations of people idenitfying that way. 
 
-As we have seen, many different people with different opinions talk about LGBTQ+ rights but what is sure so far is that men dominate the conversation and the LGBTQ+ community itself is largely under-represented. We have to look at the content of the quotes for a deeper analysis of the related ideas.
+It is important to note that the differences in proportions among genders are partly due to the differences in population sizes. The amount of transgender females is estimated to be about double the amount of transgender males in the U.S., so the idea is not to compare the proportions between groups here. We are more interested in the evolution from 2015 to 2020. As we have seen, many different people with different opinions talk about LGBTQ+ rights. We have to look at the content of the quotes for a deeper analysis of the related ideas.
 
 
 <a name = "what"></a>
@@ -92,19 +92,19 @@ Over all our data, we modelled the different topics discussed to examine **the m
 
 - For the **purple** topic, it concerns **same sex couples having children** with the words: **'child', 'parent', 'marriage', 'couple', 'political'.** As we have seen before, it has been a difficult fight in order to obtain the legal right to adopt for same-sex couples in 2017.
 
-- In **pink**, it is concentrated around **politics** with words like **'vote', 'candidate', 'right'.** A right is never earned and it is important to stay vigilant, as new movements or governments can be threatening to LGBTQ+ rights or even more largely, to any minority rights. The election of Trump in 2016 demonstrates this. Therefore, voting and electing tolerant candidates is crucial, especially for this community.
+- In **pink**, it is concentrated around **politics** with words like **'vote', 'candidate', 'right'.** A right is never earned and it is important to stay vigilant, as new movements or governments can be threatening to LGBTQ+ rights or more generally, to any minority rights. The election of Trump in 2016 demonstrates this. Therefore, voting and electing tolerant candidates is crucial, especially for this community.
 
 - The **brown** topic is about **love** with words like **'feel', 'love', 'people'.** It's all about love at the beginning!
 
 - The **orange** topic has words like **'equality', 'community', 'history' or 'recognize'.** It demonstrates the willingness to **recognize and acknowledge the history of the LGBTQ+ movement for liberation and equality.** 
 
-- The **green** one is focused on **family, religion and acceptance**, with words **'church', 'family', 'leave', 'home'**. **Coming out** can be a very complicated moment as some families don't accept it, often under cover of **religion**, and LGBTQ+ people are sometimes forced to leave their homes. It is a terrible but true statement that **640 thousands of LGBTQ+ youth are homeless.**
+- The **green** one is focused on **family, religion and acceptance**, with words **'church', 'family', 'leave', 'home'**. **Coming out** can be a very complicated moment as some families are not accepting, often due to **religion**, and LGBTQ+ people are sometimes forced to leave their homes. It is a terrible but true statement that **640 thousands of LGBTQ+ youth are homeless.**
 
 Now let's look at the **evolution** of the topics **from 2015 to 2019**.
 
 ![Alt text](topic_2015_2.png?raw=true "Title")
 
-The topic modelling from 2015 reveals that **marriage** is a topic that was very frequent. It was associated with **right, discrimination, equality.** Indeed, the **gay marriage was legalized in the 50 states on June 26, 2015 ruled by the Supreme Court.** The matter was the focus of speculation for months. **Barack Obama**, president at the time,  praised the Supreme Court's ruling. Before this decision, there occurred a very stormy debate, with multiple states banning it, but also several states that legalized it and then re-banned it a few years later. Even Barack Obama did not have a very clear position on it and made several declarations in both directions. 
+The topic modelling from 2015 reveals that **marriage** is a topic that was very frequent. It was associated with **right, discrimination, equality.** Indeed, **gay marriage was legalized in the 50 states on June 26, 2015.** The matter was the focus of speculation for months. **Barack Obama**, president at the time,  praised the Supreme Court's ruling. Before this decision, there occurred a very stormy debate, with multiple states banning it, but also several states that legalized it and then re-banned it a few years later. Even Barack Obama did not have a very clear position on it and made several declarations in both directions. 
 
 Let's see how the topics evolved in 2019.
 
@@ -121,7 +121,7 @@ To conclude, what really made the difference for the evolution of gay rights was
 From what we have seen so far, it is obvious that we are speaking more about the LGBTQ+ topic today than in 2015, but does it necessarily mean the **LGBTQ+ community is more accepted?**
 
 <p align="center">
-<img src="proppnn.png" width="750" />
+<img src="proppnn.png" />
   </p>
 
 The sentiment analysis we performed revealed that the proportion of positive, negative, and neutral quotations remained pretty constant these last few years with a positive sentence proportion that takes over the negative and neutral quotations. Despite this, the proportion of **negative quotations remains very high**. This analysis doesn’t show major improvements in the quote sentiments which is **worrying.**
