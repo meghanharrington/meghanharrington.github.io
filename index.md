@@ -46,7 +46,7 @@ First, let's see the partition of **Democrat/Republican** speakers:
 But politicians are not the only part of the debate. Indeed, lots of other personalities speak on gay rights. Let's look at their different occupations:
 
 <p align="center">
-<img src="occupations.png"  />
+<img src="occdist.png"  />
   </p>
 
 
