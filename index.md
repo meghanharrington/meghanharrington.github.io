@@ -7,34 +7,34 @@ cover-img: ./assets/img/prideflag.jpg
 
 # Why this study?
 
-Over the last few years, we have seen the rise of many movements fighting for **civil rights**, whether it is **anti-racist**, **feminist** or in our case, for **gay rights**. Indeed, it seems that with the **liberation of speech** thanks to **social networks**, everyone can have a voice and not only journalists, politicians or personalities on TV shows, as it used to be the case. Therefore, **minorities are finally getting heard,** but are they really getting more accepted?
+Over the last few years, we have seen the rise of many movements fighting for **civil rights**, whether it is **anti-racist**, **feminist** or in our case, for **gay rights**. Indeed, it seems that with the **liberation of speech** thanks to **social networks**, everyone can have a voice and not only journalists, politicians or personalities on TV shows, as used to be the case. Therefore, **minorities are finally getting heard,** but are they really becoming more accepted?
 
-This has led to very positive outcomes, with a general open-mindedness on the matter of gay rights. On **June 26, 2015, the U.S Supreme Court legalized same-sex marriage in the fifty states,** what impact did it have on the American opinions?
+This liberation of speech has led to very positive outcomes, encouraging a general open-mindedness on the matter of gay rights. On **June 26, 2015, the U.S Supreme Court legalized same-sex marriage in the fifty states,** what impact did it have on the American opinions?
 
 In our data story, we are going to focus on who is speaking about the **LGBTQ+ community**, the evolution of opinions on the subject, and what differences we can see across states in the USA, with a special attention to politicians' statements.   
 
 
-# Who talks about it ?
-As it is a societal topic, many different people talk about it. As we are most interested in **politicians**, let's see what they have to say about it. First, let's see the distribution of senators in each state.
+# Who is speaking about it ?
+As it is a societal topic, many different people talk about it. As we are most interested in **politicians**, let's see what they have to say about it. First, let's look at the distribution of politicians in each state.
 
 <p align="center">
 <img src="distrib_pol.png"  />
   </p>
 
-In order to get an accurate idea of which states' representatives were speaking the most about gay rights, we normalized the data with respect to the states' populations.
+In order to get an accurate idea of which states' representatives were speaking the most about gay rights, we normalized the data with respect to the states' populations. The distributions were similar across all years, so here we can look at 2015 as an example.
 
 
 <p align="center">
 <img src="weightedq.png"  />
   </p>
 
-As we can see **California, New York, Florida and Texas** are the major states who talk about it. For **California** it is not surprising as it is considered to be a very **liberal state** in regard to **LGBTQ+ rights**. Discrimination protections regarding sexual orientation and gender identity were adopted in **2003**. In 1999, California was also the first state in the U.S. to **legalize domestic partnerships between same-sex couples**. Same-sex adoption has also been legal statewide since 2003, permitting stepchild adoption and joint adoption between same-sex couples. 
+As we can see **California, New York, Florida and Texas** are the major states speaking about gay rights. For **California** it is not surprising as it is considered to be a very **liberal state** in regard to **LGBTQ+ rights**. Discrimination protections regarding sexual orientation and gender identity were adopted in 2003. In 1999, California was also the first state in the U.S. to **legalize domestic partnerships between same-sex couples**. Same-sex adoption has also been legal statewide since 2003, permitting stepchild adoption and joint adoption between same-sex couples. 
 
 The same goes for **New York**, which is seen as a very **socially liberal** state. Same-sex sexual activity has been legal since **1980**. Same-sex marriage has been legal statewide since 2011. In addition, both conversion therapy on minors and the gay and trans panic defense have been banned since 2019. Also, New York City is now seen as **one of the most LGBTQ-friendly cities in the U.S.**
 
-For **Florida**, it is not a very progressive state as same-sex sexual activity became legal after Supreme Court's decision on June 26, 2003. Nevertheless, there are laws to protect against LGBTQ+ discrimination. 
+For **Florida**, it is not a very progressive state as same-sex sexual activity only became legal after the Supreme Court's decision on June 26, 2003. Nevertheless, there are laws to protect against LGBTQ+ discrimination. 
 
-In opposition, **Texas** has always been a very **conservative state** and LGBTQ+ people face legal and social challenges and discriminations. There is no statewide law banning anti-LGBTQ+ discrimination. Nevertheless, same-sex marriage is legal since 2015 under the federal law. We will see how the political party impacts the number of quotations for a state and what ideas are related in the statements.
+In opposition, **Texas** has always been a very **conservative state** and LGBTQ+ people face legal and social challenges and discriminations. There is no statewide law banning anti-LGBTQ+ discrimination. Nevertheless, same-sex marriage is legal since 2015 under the federal law. Here we can see which political parties are more vocal on the topic. There are a roughly equal number of Democrats and Republicans in the Senate and Congress, so we can easily compare their contributions.
 
 First, let's see the partition of **Democrat/Republican** speakers:
 
@@ -52,9 +52,9 @@ But politicians are not the only part of the debate. Indeed, lots of other perso
   </p>
 
 
-As we can see, **actors** play a very important role, the politicians are quite far behind! One might find it surprising that **politicians represent 9.1%** while **actors represent 23.3%**. Politicians are the ones who can apply laws and create change, in both directions, depending on the opinion. But at the same time, actors have lots of **influence** because of their exposition and are often quoted in the media in case of a **coming out** or an opinion. Also, they often play the role of an LGBTQ+ person. 
+As we can see, **actors** play a very important role, the politicians are quite far behind! One might find it surprising that **politicians represent 9.3%** while **actors represent 26.2%**. Politicians are the ones who can enact laws and create change, in both directions, depending on the opinion. But at the same time, actors have lots of **influence** because of their exposition and are often quoted in the media in case of a **coming out** or an opinion. Also, they often play the role of an LGBTQ+ person. 
 
-Finally, when analyzing the coverage of a minority's rights, it is interesting to look at the **gender of the speakers** as in the U.S, **white males are often over-represented** and tend to have more space and time to express their opinions, whereas other minorities, including the concerned ones, are less heard. Let's see if it the case here:
+Finally, when analyzing the coverage of a minority's rights, it is interesting to look at the **gender of the speakers**, as in the U.S, **white males are often over-represented** and tend to have more space and time to express their opinions, whereas other minorities, including the concerned ones, are less heard. Let's see if it is the case here:
 
 <p align="center">
 <img src="genderbar.png"  />
