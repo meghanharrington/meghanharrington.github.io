@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Evolution of opinions on LGBTQ+
+title: Evolution of Opinions on LGBTQ+
 cover-img: ./assets/img/prideflag.jpg
 ---
 
@@ -73,7 +73,7 @@ As expected, **males represent almost 70% of the speakers**. We can see a small 
 <img src="mingenderbar.png"  />
   </p>
 
- On this new scale, transgender females are very present as well as non-binary people. We see a notable increase in quotes from **non-binary** and **gender fluid** people from 2015 to 2020. This might suggest that the terms 'non-binary' and 'gender fluid' have become more normalized and more commonly used by journalists, or perhaps there has been a growth in the populations of people idenitfying that way. 
+ On this new scale, transgender females are very present as well as non-binary people. We see a notable increase in quotes from **non-binary** and **gender fluid** people from 2015 to 2020. This might suggest that the terms 'non-binary' and 'gender fluid' have become more normalized and more commonly used by journalists, or perhaps there has been a growth in the populations of people identifying that way. 
 
 It is important to note that the differences in proportions among genders are partly due to the differences in population sizes. The amount of transgender females is estimated to be about double the amount of transgender males in the U.S., so the idea is not to compare the proportions between groups here. We are more interested in the evolution from 2015 to 2020. As we have seen, many different people with different opinions talk about LGBTQ+ rights. We have to look at the content of the quotes for a deeper analysis of the related ideas.
 
@@ -84,7 +84,7 @@ It is important to note that the differences in proportions among genders are pa
 <img src="wbfinal.png" alt="drawing" width="750"/>
 
 
-Over all our data, we modelled the different topics discussed to examine **the major concerns and debates around the LGBTQ+ community.** In order to obtain these topics, we used an unsupervised topic modeling algorithm called Latent Dirichlet Allocation. Given a number of topics to detect, this algorithm provides us with collections of words that can be interpreted as topics. We found that the best results revealed **7 distinct topics**.
+Over all our data, we modelled the different topics discussed to examine **the major concerns and debates around the LGBTQ+ community.** In order to obtain these topics, we used an unsupervised topic modeling algorithm called Latent Dirichlet Allocation. Given a number of topics to detect, this algorithm provides us with collections of words that can be interpreted as topics. We found that the best results revealed **seven distinct topics**.
 
 - The first one, in **blue**, represents the different sorts of **discrimination: by race, gender and sexual orientation.** The term **'pay'** comes up, as lots of studies have shown that there is a gap between mens' and womens' salaries, as well as between black people and white people, and gay and heterosexual people. A study has shown that the gender pay gap is also present among gay people:  according to the Williams Institute, **women in same-sex couples have a median personal income of $38,000** compared to **$47,000 for men in same-sex couples**. Indeed, the different sorts of discrimination tend to cross over, it is called **intersectionality.** It explains why the other kinds of discriminations are also present in our data as it is all very linked together.
 
@@ -98,7 +98,7 @@ Over all our data, we modelled the different topics discussed to examine **the m
 
 - The **orange** topic has words like **'equality', 'community', 'history' or 'recognize'.** It demonstrates the willingness to **recognize and acknowledge the history of the LGBTQ+ movement for liberation and equality.** 
 
-- The **green** one is focused on **family, religion and acceptance**, with words **'church', 'family', 'leave', 'home'**. **Coming out** can be a very complicated moment as some families are not accepting, often due to **religion**, and LGBTQ+ people are sometimes forced to leave their homes. It is a terrible but true statement that **640 thousands of LGBTQ+ youth are homeless.**
+- The **green** one is focused on **family, religion and acceptance**, with words like **'church', 'family', 'leave', 'home'**. **Coming out** can be a very complicated moment as some families are not accepting, often due to **religion**, and LGBTQ+ people are sometimes forced to leave their homes. It is a terrible but true statement that **640 thousands of LGBTQ+ youth are homeless.**
 
 Now let's look at the **evolution** of the topics **from 2015 to 2019**.
 
@@ -147,7 +147,7 @@ One more time we can see that **progress is unstable**, nothing is certain, gett
 
 As we have seen so far, the U.S. has enacted some important laws toward **equality for LGBTQ+**, with the **gay marriage** and **child adoption** laws. Nevertheless, the community still faces various forms of **discrimination and violence** across the country. We wanted to have a look and compare each state to see where the LGBTQ+ community is most accepted.
 
-First, let's see how the distribution of **hate crimes due to sexual orientation** in all the states has evolved from 2015 to 2019.
+First, let's see how the distribution of **hate crimes due to sexual orientation** in each state has evolved from 2015 to 2019.
 
 ![Alt text](distrib_hc.png?raw=true "Title")
 
@@ -181,17 +181,17 @@ In conclusion, there has been an unquestionable **liberation of speech** these l
 
 Hate Crimes in D.C. | [D.C. Policy Center](www.dcpolicycenter.org)
 
-LGBT+ Rights and Peace in Colombia: The Paradox Between Law and Practice [WOLA](www.wola.org)
+LGBT+ Rights and Peace in Colombia: The Paradox Between Law and Practice | [WOLA](www.wola.org)
 
-Colombia failing to stem murders of LGBT people [Reuters](www.reuters.com)
+Colombia failing to stem murders of LGBT people | [Reuters](www.reuters.com)
 
-How Gay Marriage Won in the U.S. Supreme Court [The Atlantic](www.theatlantic.com)
+How Gay Marriage Won in the U.S. Supreme Court | [The Atlantic](www.theatlantic.com)
 
 Equal pay is an LGBT issue | [National LGBTQ Task Force](www.thetaskforce.org)
 
 The Cost of Coming Out: LGBT Youth Homelessness | [Lesley University](www.lesley.edu)
 
-Anti-gay hate crimes on the rise, FBI says, and they likely undercount [USA Today](www.eu.usatoday.com)
+Anti-gay hate crimes on the rise, FBI says, and they likely undercount | [USA Today](www.eu.usatoday.com)
 
 A Contentious Debate: Same-Sex Marriage in the U.S. | [Pew Research Center](www.pewforum.org)
 
