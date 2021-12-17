@@ -138,14 +138,14 @@ On the other hand we can observe the **positive sentiment score for Americans'**
 ### Are these results significant?
 Due to the distribution of the data, it is difficult to perform a hypothesis test in order to conclude whether these differences in sentiments are statistically significant. The **Wilcoxon rank-sum test** can give us an idea of how to interpret the evolution of sentiments for each group. It is a nonparametric test of the null hypothesis that for randomly selected values X and Y from two populations, the probability of X being greater than Y is equal to the probability of Y being greater than X. 
 
-First of all, we performed the test on the compound sentiment scores for politicians, comparing 2015 and 2020. This gave a p-value of **0.051539**. Then, we looked at the compound sentiment scores for all Americans, once again comparing 2015 and 2020. This gave a p-value of **0.00055**.  From these results, we can reject the null hypothesis and conclude that there is a statistcally significant change in sentiment from 2015 to 2020 for all Americans. However, we cannot draw a concrete conclusion about the change in sentiment of politicians.
+First of all, we performed the test on the compound sentiment scores for politicians, comparing 2015 and 2020. This gave a p-value of **0.051539**. Then, we looked at the compound sentiment scores for all Americans, once again comparing 2015 and 2020. This gave a p-value of **0.00055**.  From these results, we can reject the null hypothesis and conclude that there is a statistically significant change in sentiment from 2015 to 2020 for all Americans. However, we cannot draw a concrete conclusion about the change in sentiment of politicians.
 
 One more time we can see that **progress is unstable**, nothing is certain, getting rights is a constant fight and laws can go backwards at any time.
 
 <a name = "states"></a>
 # Acceptance across the States 
 
-As we have seen so far, the U.S. has enacted some important laws toward **equality for LGBTQ+**, with the **gay marriage** and **child adoption** laws. Nevertheless, the community still faces various forms of **discriminations and violence** across the country. We wanted to have a look and compare each state to see where the LGBTQ+ community is most accepted.
+As we have seen so far, the U.S. has enacted some important laws toward **equality for LGBTQ+**, with the **gay marriage** and **child adoption** laws. Nevertheless, the community still faces various forms of **discrimination and violence** across the country. We wanted to have a look and compare each state to see where the LGBTQ+ community is most accepted.
 
 First, let's see how the distribution of **hate crimes due to sexual orientation** in all the states has evolved from 2015 to 2019.
 
@@ -153,7 +153,7 @@ First, let's see how the distribution of **hate crimes due to sexual orientation
 
 Most of the states have a very small percentage (with respect to their population size) with less than 0.002% of cases. But some states stand out with high peaks. Especially in the **District of Columbia** which has tremendously high numbers. From **2015 to 2019** it doubled in proportion, **going from 0.012% to more then 0.025%**. **Washington** has also registered an **increase, going from 0.014 to 0.0025%.** In **Vermont**, it went **from 0.001 to 0.004%**. Overall, the number of assaults stayed mostly constant with minor rises or falls in some states from 2015 to 2019. 
 
-Nevertheless, we collected our data from the **FBI** website, but it is likely **dramatically underestimated** because of **flaws in the current data collection process** and **massive discrepancies with the much larger number of self-reported incidents**. The real number of hate crimes over the states could be much greater.
+We collected our data from the **FBI** website, but it is likely **dramatically underestimated** because of **flaws in the current data collection process** and **massive discrepancies with the much larger number of self-reported incidents**. The real number of hate crimes across the states could be much greater.
 
 Finally, we collected data on the LGBTQ+ population for each state to see where it is the most prevalent.
 
@@ -166,9 +166,9 @@ This graph reveals a very interesting element: **District of Columbia** has the 
 
 From our analysis, we have seen that there are **lots of different speakers** on the **LGBTQ+ rights** topic. First of all, people who talk about it the most are not the people concerned but rather the **dominant classes**. **Politicians** are major speakers as they make laws in order to extend or reduce the rights of this community. But, as it is a **societal matter**, public opinion is a key component of the debate. Where politicians tend to stand in retreat and be less committed, **activist and actors** take **strong positions**. We know that **culture**, through **movies, books, or TV shows** allow Americans to **open their minds and accept each other.** Indeed, our sentiment analysis revealed that Americans' sentiments are getting slightly more positive over the years. 
 
-However, it can still evolve in one direction or another. **Conservative movements** have lots of **power** in America. Some progressive laws have already been cancelled in the past, as we have seen with gay marriage in several states. 
+However, it can still evolve in one direction or another. **Conservative movements** have lots of **power** in America. Some progressive laws have already been repealed in the past, as we have seen with gay marriage in several states. 
 
-Regarding the **hate crimes**, it confirms that the LGBTQ+ community is not fully accepted and suffers from very **violent assaults and discriminations**. The **protection** of the community needs to be reformed as it is **nonexistent** in some states. 
+Regarding **hate crimes**, the statistics confirm that the LGBTQ+ community is not fully accepted and suffers from very **violent assaults and discriminations**. The **protection** of the community needs to be reformed as it is **nonexistent** in some states. 
 
 In conclusion, there has been an unquestionable **liberation of speech** these last few years that have allowed more voices to be heard. We may think that this implies major improvements in gay rights and acceptance but there is still a lot of work to do to reach **equality**. 
 
@@ -177,9 +177,9 @@ In conclusion, there has been an unquestionable **liberation of speech** these l
 # References
 
 
-<a href="#top">Back to top</a>
 
-Hate Crimes in D.C. - D.C. Policy Center | www.dcpolicycenter.org
+
+Hate Crimes in D.C. - D.C. Policy Center | <a href="www.dcpolicycenter.org"></a>
 
 LGBT+ Rights and Peace in Colombia: The Paradox Between Law and Practice | www.wola.org
 
@@ -195,3 +195,16 @@ Anti-gay hate crimes on the rise, FBI says, and they likely undercount | www.eu.
 
 A Contentious Debate: Same-Sex Marriage in the U.S. | Pew Research Center | www.pewforum.org
 
+Mann-Whitney U Test | https://en.wikipedia.org/wiki/Mann%E2%80%93Whitney_U_test
+
+U.S. Senate 1976-2020 Dataset | https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PEJ5QU
+
+FBI Hate Crime Statistics | https://ucr.fbi.gov/hate-crime/2019/topic-pages/tables/table-13.xls/view
+
+LGBT Demographics | https://en.wikipedia.org/wiki/LGBT_demographics_of_the_United_States#2020s
+
+LGBT Population Data | https://williamsinstitute.law.ucla.edu/wp-content/uploads/LGBT-Adult-US-Pop-Jul-2020.pdf
+
+Congress Datasets | https://everypolitician.org/united-states-of-america/house/download.html
+
+<a href="#top">Back to top</a>
