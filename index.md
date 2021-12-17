@@ -111,22 +111,22 @@ To conclude, what really made the difference for the evolution of gay rights was
 
 
 # Sentiment Analysis
-From what we have seen so far, it is obvious that we are speaking more about the LGBTQ+ topic today than in 2015. In fact, the number of quotations on Quotebank related to the topic went from **844 in 2015** to **73088 in 2019** which means **multiplying the speeches about the gay rights by 86**, but does it necessarily mean the **LGBTQ+ community is more accepted?**
+From what we have seen so far, it is obvious that we are speaking more about the LGBTQ+ topic today than in 2015, but does it necessarily mean the **LGBTQ+ community is more accepted?**
 
 <p align="center">
 <img src="proppnn.png" width="750" />
   </p>
 
-The sentiment analysis we performed revealed that the proportion of positive, negative, and neutral sentences remained pretty constant these last few years with a positive sentence proportion that takes over the negative and neutral sentences although the **negative sentences remain very high**. This analysis doesn’t show major improvements in the quotes sentiment which is **worrying.**
+The sentiment analysis we performed revealed that the proportion of positive, negative, and neutral quotations remained pretty constant these last few years with a positive sentence proportion that takes over the negative and neutral quotations. Despite this, the proportion of **negative quotations remains very high**. This analysis doesn’t show major improvements in the quote sentiments which is **worrying.**
 
-We can distinguish the politicians’ statements from the overall population of the US.
+We can distinguish the politicians’ sentiments from the overall population of the US and visualize the evolution of positive and negative sentiment scores.
 
 <p align="center">
   <img src="mean_score_pol_people.png"  />
   </p>
   
-Indeed, looking at the **politicians** statements we notice an **increasing proportion of positive sentences from 2015 to 2018**, then this proportion started to decrease in contrast to the **negative proportion that is dangerously increasing** still today. 
-On the other hand we can observe the proportion of **positive sentences in Americans** statements is **increasing** and taking over the negative proportion that decreases.
+Indeed, looking at the **politicians'** statements we notice an **increasing positive sentiment score from 2015 to 2018**, then this value starts to decrease, while the **negative sentiment score begins to increase**. 
+On the other hand we can observe the **positive sentiment score for Americans'** statements is **increasing**, while the negative sentiment score is decreasing.
 
 ### Are these results significant?
 Due to the distribution of the data, it is difficult to perform a hypothesis test in order to conclude whether these differences in sentiments are statistically significant. The **Wilcoxon rank-sum test** can give us an idea of how to interpret the evolution of sentiments for each group. It is a nonparametric test of the null hypothesis that for randomly selected values X and Y from two populations, the probability of X being greater than Y is equal to the probability of Y being greater than X. 
